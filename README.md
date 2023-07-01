@@ -37,4 +37,14 @@
 |Unique Key|A unique key ensures that the values in the column(s) are unique and not duplicated within a table|
 |Alternate Key|An alternate key is a candidate key that was not selected as the primary key.|
 
+## Day 3 of 60days
+- During my SQL learning journey, Today I learn about the Data Definition languages and it's commands.
 
+| SQL Commands| Description |
+| ----------- | ----------- |
+|CREATE|This command is used to create the database or its objects (like table, index, function, views, store procedure, and triggers)|
+|ALTER|This is used to alter the structure of the database.|
+|DROP|This command is used to delete objects from the database.|
+|TRUNCATE|This is used to remove all records from a table, including all spaces allocated for the records are removed.|
+
+![Alt text](Assets/day3of60.png)
