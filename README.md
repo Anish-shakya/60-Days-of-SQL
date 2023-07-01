@@ -39,6 +39,12 @@
 
 ## Day 3 of 60days
 - During my SQL learning journey, Today I learn about the Data Definition languages and it's commands.
+- Learned about how to create tables and different data types that are available to create tables and define the attributes of columns.
+- DataTypes 
+  - INTEGER:signed four-byte integer
+  - VARCHAR(n):variable-length character string with maximum length 'n'
+  - TEXT:variable-length character string without any length limit
+  - CHAR(n):fixed-length character string with length 'n'
 
 | SQL Commands| Description |
 | ----------- | ----------- |
