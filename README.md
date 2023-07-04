@@ -129,4 +129,7 @@
   - While the single line is telling us that the PK shows that id appears only once per row in this table.
 
 ## Day 9 of 60days
-During my SQL learning journey,Today I learn about SQL Join syntax. I learn about how to join two or more table in order to fetech required data form the tables.
+- During my SQL learning journey,Today I learn about SQL Join syntax. I learn about how to join two or more table in order to fetech required data form the tables.
+-  I also learn about GROUP BY clause.The GROUP BY Statement in SQL is used to arrange identical data into groups with the help of some functions. i.e. if a particular column has the same values in different rows then it will arrange these rows in a group.
+
+![Alt text](Assets/day9of60.png)

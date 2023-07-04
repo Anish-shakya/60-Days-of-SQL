@@ -6,10 +6,25 @@ JOIN accounts -- Join the orders table with the accounts table
 ON orders.account_id = accounts.id;-- based on the account_id and id columns
 
 
+---Inner join -------
+SELECT accounts.id,accounts.name,orders.total_amt_usd as total_order FROM accounts 
+JOIN orders 
+ON accounts.id =orders.account_id
 
-SELECT orders.standard_qty, orders.gloss_qty, 
-          orders.poster_qty,  accounts.website, 
-          accounts.primary_poc
-FROM orders
-JOIN accounts
-ON orders.account_id = accounts.id
+---- Right Join------
+SELECT accounts.id,accounts.name,orders.total_amt_usd as total_order FROM accounts 
+RIGHT JOIN orders 
+ON accounts.id =orders.account_id
+
+---- Left Join------
+SELECT accounts.id,accounts.name,orders.total_amt_usd as total_order FROM accounts 
+LEFT JOIN orders 
+ON accounts.id =orders.account_id
+
+---- Full Join------
+SELECT accounts.id,accounts.name,orders.total_amt_usd as total_order FROM accounts 
+FULL JOIN orders 
+ON accounts.id =orders.account_id
+
+
+
