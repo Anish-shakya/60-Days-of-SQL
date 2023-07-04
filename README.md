@@ -30,7 +30,7 @@
 ## Day 2 of 60days
 - During my SQL learning journey, Today I learn about the Entity Relationship Diagrams and Different type of Keys.
 - An Entity-Relationship Diagram (ERD) is a visual representation that depicts the entities (objects) in a database, their attributes, and the relationships between them. It helps in designing and understanding the structure of a database
-![Alt text](Assets/image.png)
+
 
 | Keys | Description |
 | ----------- | ----------- |
@@ -133,3 +133,14 @@
 -  I also learn about GROUP BY clause.The GROUP BY Statement in SQL is used to arrange identical data into groups with the help of some functions. i.e. if a particular column has the same values in different rows then it will arrange these rows in a group.
 
 ![Alt text](Assets/day9of60.png)
+
+## Day 10 of 60days
+- During my SQL learning journey,Today I learn about COUNT and DISTINCT function.Combining COUNT with DISTINCT is also common to count the number of unique values in a field.
+
+- COUNT : The COUNT function lets us do this by returning the number of records with a value in a field
+
+- For this I have used below database
+![Alt text](Assets2/image.png)
+
+![Alt text](Assets/day10of60.png)
+
