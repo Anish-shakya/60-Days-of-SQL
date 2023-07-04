@@ -128,3 +128,5 @@
   - The crow's foot shows that the FK can actually appear in many rows in the sales_reps table.
   - While the single line is telling us that the PK shows that id appears only once per row in this table.
 
+## Day 9 of 60days
+During my SQL learning journey,Today I learn about SQL Join syntax. I learn about how to join two or more table in order to fetech required data form the tables.
