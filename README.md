@@ -144,3 +144,9 @@
 
 ![Alt text](Assets/day10of60.png)
 
+## Day 11 of 60days
+- During my SQL learning journey,Today I learn about using COUNT,DISTINCT and different operators AND, BETWEEN, IN together.
+- The LIKE and NOT LIKE operators can be used to find records that either match or do not match a specified pattern, respectively. 
+- LIKE can be coupled with the wildcards % and _. The % will match zero or many characters, and _ will match a single character.
+
+![Alt text](Assets/day11of60.png)
