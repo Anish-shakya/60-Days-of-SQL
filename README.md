@@ -150,3 +150,25 @@
 - LIKE can be coupled with the wildcards % and _. The % will match zero or many characters, and _ will match a single character.
 
 ![Alt text](Assets/day11of60.png)
+
+## Day 12 of 60days
+- During my SQL learning journey,Today I learn about Aggregate Funcitons in SQL. Mostly used aggregate funtion are AVG, MAX, MIN, SUM, COUNT
+- When analyzing data, we often want to understand the dataset as a whole in addition to looking at individual records.
+- One way to summarize the data using SQL's aggregate functions. An aggregate function performs a calculation on several values and returns a single value.
+- I learn about using WHERE clause with Summarizing function.
+
+| Aggregate Function|Description |
+| ----------- | ----------- |
+|COUNT|COUNT can provide a total of any non-missing, or not null, records in a field regardless of their type.|
+|SUM|The SUM() function returns the total sum of a numeric column.|
+|AVG|The AVG() function calculates the average of a set of values.|
+|MIN|The MIN() aggregate function returns the lowest value (minimum) in a set of non-NULL values.|
+|MAX|The MAX() aggregate function returns the highest value (maximum) in a set of non-NULL values.|
+
+![Alt text](Assets/day12of60.png)
+
+## Day 12 of 60days
+- During my SQL learning journey,Today I learn about sorting the data.
+- Sorting results means we want to put our data in a specific order. It's another way to make our data easier to understand by quickly seeing it in a sequence. 
+- In SQL, the ORDER BY keyword is used to sort results of one or more fields. 
+
