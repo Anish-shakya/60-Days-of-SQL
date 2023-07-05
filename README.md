@@ -12,6 +12,7 @@
 | Day | Description |
 | ----------- | ----------- |
 |1 - 6| Basic SQL|
+|7-13|Intermediate SQL|
 
 
 ## Day 1 of 60days
@@ -167,8 +168,21 @@
 
 ![Alt text](Assets/day12of60.png)
 
-## Day 12 of 60days
-- During my SQL learning journey,Today I learn about sorting the data.
+## Day 13 of 60days
+- During my SQL learning journey,Today I learn about sorting the data,Grouping the data and also use of having clause.
 - Sorting results means we want to put our data in a specific order. It's another way to make our data easier to understand by quickly seeing it in a sequence. 
 - In SQL, the ORDER BY keyword is used to sort results of one or more fields. 
 
+![Alt text](Assets/day13of60.png)
+
+- SQL allows us to group with the GROUP BY clause.
+- GROUP BY is commonly used with aggregate functions to provide summary statistics, particularly when only grouping a single field
+
+![Alt text](Assets/day13(2)of60.png)
+
+- In SQL, we can't filter aggregate functions with WHERE clauses.
+- That means that if we want to filter based on the result of an aggregate function, we need another way. Groups have their own special filtering word: HAVING.
+
+![Alt text](Assets2/whereVshaving.png)
+
+![Alt text](Assets/day13(3)of60.png)
