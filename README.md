@@ -13,6 +13,7 @@
 | ----------- | ----------- |
 |1 - 6| Basic SQL|
 |7-13|Intermediate SQL|
+|14| Set Theory for SQL Joins|
 
 
 ## Day 1 of 60days
@@ -208,3 +209,11 @@
 - EXCEPT allows us to identify the records that are present in one table, but not the other. 
 - More specifically, it retains only records from the left table that are not present in the right table.
 ![Alt text](Assets/day14(3)of60.png)
+
+## Day 15 of 60days
+- During my SQL learning journey,Today I learn about Subquery in SQL.
+- A Subquery or Inner query or a Nested query is a query within another SQL query and embedded within clauses, most commonly in the WHERE clause. 
+- It is used to return data from a table, and this data will be used in the main query as a condition to further restrict the data to be retrieved.
+- Subqueries can be used with the SELECT, INSERT, UPDATE, and DELETE statements along with the operators like =, <, >, >=, <=, IN, BETWEEN, etc.
+
+![Alt text](Assets/day15of60.png)
