@@ -207,3 +207,4 @@
 #### EXCEPT 
 - EXCEPT allows us to identify the records that are present in one table, but not the other. 
 - More specifically, it retains only records from the left table that are not present in the right table.
+![Alt text](Assets/day14(3)of60.png)
