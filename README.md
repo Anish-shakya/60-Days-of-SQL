@@ -186,3 +186,24 @@
 ![Alt text](Assets2/whereVshaving.png)
 
 ![Alt text](Assets/day13(3)of60.png)
+
+## Day 14 of 60days
+- During my SQL learning journey,Today I learn about Set theory in SQL Joins.
+- SQL has three main set operations, UNION, INTERSECT and EXCEPT. The Venn diagrams shown visualize the differences between them. 
+
+![Alt text](Assets2/image2.png)
+
+#### UNION and UNION ALL
+- In SQL, the UNION operator takes two tables as input, and returns all records from both tables. The diagram shows two tables: left and right, and performing a UNION returns all records in each table. If two records are identical, UNION only returns them once. 
+
+- In SQL, there is a further operator for unions called UNION ALL. In contrast to UNION, given the same two tables, UNION ALL will include duplicate records.
+
+![Alt text](Assets/day14of60.png)
+
+#### INTERSECT
+- INTERSECT takes two tables as input, and returns only the records that exist in both tables.
+![Alt text](Assets/day14(2)of60.png)
+
+#### EXCEPT 
+- EXCEPT allows us to identify the records that are present in one table, but not the other. 
+- More specifically, it retains only records from the left table that are not present in the right table.
