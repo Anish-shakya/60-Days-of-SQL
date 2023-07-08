@@ -218,4 +218,4 @@
 
 ![Alt text](Assets/day15of60.png)
 
-![Alt text](Assets/day15of60.png)
+![Alt text](Assets/day15(1)of60.png)
