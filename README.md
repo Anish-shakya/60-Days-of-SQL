@@ -217,3 +217,5 @@
 - Subqueries can be used with the SELECT, INSERT, UPDATE, and DELETE statements along with the operators like =, <, >, >=, <=, IN, BETWEEN, etc...
 
 ![Alt text](Assets/day15of60.png)
+
+![Alt text](Assets/day15of60.png)
