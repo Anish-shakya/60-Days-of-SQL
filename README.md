@@ -219,6 +219,7 @@
 ![Alt text](Assets/day15of60.png)
 
 ![Alt text](Assets/day15(1)of60.png)
+<<<<<<< HEAD
 
 
 ## Day 16 of 60days
@@ -226,3 +227,5 @@
 - During my SQL learning journey,Today I learn about theroritical and some practical related data manipulation in SQL.
 - There are different way to shape,transform and manipulate data in SQL using CASE statement, simple subqueries and correlated subqueries and also window functions
   
+=======
+>>>>>>> 8718d6769da62b686096b563319357363e750b65
