@@ -214,7 +214,7 @@
 - During my SQL learning journey,Today I learn about Subquery in SQL.
 - A Subquery or Inner query or a Nested query is a query within another SQL query and embedded within clauses, most commonly in the WHERE clause. 
 - It is used to return data from a table, and this data will be used in the main query as a condition to further restrict the data to be retrieved.
-- Subqueries can be used with the SELECT, INSERT, UPDATE, and DELETE statements along with the operators like =, <, >, >=, <=, IN, BETWEEN, etc...
+- Subqueries can be used with the SELECT, INSERT, UPDATE, and DELETE statements along with the operators like =, <, >, >=, <=, IN, BETWEEN, etc.
 
 ![Alt text](Assets/day15of60.png)
 
