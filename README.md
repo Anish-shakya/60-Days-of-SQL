@@ -226,7 +226,7 @@
 - During my SQL learning journey,Today I learn about theroritical and some practical related data manipulation in SQL.
 - There are different way to shape,transform and manipulate data in SQL using CASE statement, simple subqueries and correlated subqueries and also window functions
 - In SQL, the CASE statement is used for conditional logic and allows you to perform different actions based on specified conditions. 
-- It can be used in various ways, including simple case expressions and searched case expressions. 
+- It can be used in various ways, including simple case expressions and searched case expressions...
   
 
 ![Alt text](Assets/day16of60.png)
