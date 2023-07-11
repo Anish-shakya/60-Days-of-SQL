@@ -261,3 +261,21 @@ Aggregate functions.
 
 ![Alt text](Assets/day19of60.png)
 
+## Day 20 of 60days
+- During my SQL learning journey,Today I learn about simple subquries to extract and transform out data.
+- I learn about the use of subqueries in  FROM statement.
+- Subqueries in the FROM statement are a robust tool for restructuring and transforming your data. 
+
+![Alt text](Assets/day20of60.png)
+
+## Day 21 of 60days
+- During my SQL learning journey,Today I learn about using subqueries in SELECT Statement.
+- Subqueries in SELECT are used to return a single, aggregate value.
+- Subqueries in SELECT are one way to get around that. 
+- Subqieries in SELECT are also useful when performing complex mathematical calculations on information in your data set
+
+![Alt text](Assets2/image4.png)
+
+![Alt text](Assets2/image5.png)
+
+
