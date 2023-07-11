@@ -261,7 +261,3 @@ Aggregate functions.
 
 ![Alt text](Assets/day19of60.png)
 
-## Day 20 of 60days
-- During my SQL learning journey,Today I learn about simple subquries to extract and transform out data.
-- I learn about the use of subqueries in  FROM statement.
-- Subqueries in the FROM statement are a robust tool for restructuring and transforming your data. 
