@@ -16,7 +16,8 @@
 |14| Set Theory for SQL Joins|
 |15| Subqueries|
 |16 - 18 | Data manipulation With CASE Statement |
-|19|Simple Sub queries|
+|19-23|Simple Sub queries|
+|24|Correlated Sub queries|
 
 
 ## Day 1 of 60days
@@ -278,4 +279,26 @@ Aggregate functions.
 
 ![Alt text](Assets2/image5.png)
 
+## Day 22 of 60days
+- During my SQL learning journey,Today I pratice writing queries about using subqueries in SELECT Statement.
 
+![Alt text](Assets/day22(1)of60.png)
+
+![Alt text](Assets/day22(2)of60.png)
+
+## Day 23 of 60days
+-  During my SQL learning journey,Today I pratice more writing advance queries about using subqueries.
+
+- subquery to extract a list of stages where the average home goals in a stage is higher than the overall average for home goals in a match.
+![Alt text](Assets/day23(1)of60.png)
+
+-  subquery in SELECT to compare the average number of goals scored in each stage to the total.
+![Alt text](Assets/day23(2)of60.png)
+
+## Day 24 of 60days
+- During my SQL learning journey,Today I learn about Correlated subqueries.
+- Correlated subqueries are a special kind of subquery that use values from the outer query in order to generate the final results.
+- The subquery is re-executed each time a new row in the final data set is returned, in order to properly generate each new piece of information. 
+- Correlated subqueries are used for special types of calculations, such as advanced joining, filtering, and evaluating of data in the database.
+
+![Alt text](Assets2/image6.png)
