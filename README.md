@@ -14,6 +14,8 @@
 |1 - 6| Basic SQL|
 |7-13|Intermediate SQL|
 |14| Set Theory for SQL Joins|
+|15| Subqueries|
+|16 - | Data manipulation With CASE Statement |
 
 
 ## Day 1 of 60days
@@ -235,3 +237,15 @@
 along with logical operators like AND,OR,NOT.
 
 ![Alt text](Assets/day17of60.png)
+
+## Day 18 of 60days
+- During my SQL learning journey,Today I learn about CASE WHEN statement with
+Aggregate functions.
+- CASE statements can be used to create columns for categorizing data, and to filter your data in the WHERE clause. 
+
+#### CASE with COUNT 
+![Alt text](Assets/day18(1)of60.png)
+
+#### CASE with AVG
+![Alt text](Assets/day18(2)of60.png)
+
