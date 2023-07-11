@@ -295,10 +295,3 @@ Aggregate functions.
 -  subquery in SELECT to compare the average number of goals scored in each stage to the total.
 ![Alt text](Assets/day23(2)of60.png)
 
-## Day 24 of 60days
-- During my SQL learning journey,Today I learn about Correlated subqueries.
-- Correlated subqueries are a special kind of subquery that use values from the outer query in order to generate the final results.
-- The subquery is re-executed each time a new row in the final data set is returned, in order to properly generate each new piece of information. 
-- Correlated subqueries are used for special types of calculations, such as advanced joining, filtering, and evaluating of data in the database.
-
-![Alt text](Assets2/image6.png)
