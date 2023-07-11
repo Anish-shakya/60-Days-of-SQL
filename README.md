@@ -1,6 +1,6 @@
 # My 60 days Journey of Learning Structured Query Language For Data Analysis
 
-![Alt text](Assets/photo.png)
+![Alt text](Assets2/photo.png)
 
 | Resources | Description |
 | ----------- | ----------- |
@@ -15,7 +15,8 @@
 |7-13|Intermediate SQL|
 |14| Set Theory for SQL Joins|
 |15| Subqueries|
-|16 - | Data manipulation With CASE Statement |
+|16 - 18 | Data manipulation With CASE Statement |
+|19|Simple Sub queries|
 
 
 ## Day 1 of 60days
@@ -114,7 +115,7 @@
 |LEFT JOIN |Returns all rows from the left table and the matching rows from the right table. If there is no match, NULL values are returned for the right table columns.|
 |RIGHT JOIN|Returns all rows from the right table and the matching rows from the left table. If there is no match, NULL values are returned for the left table columns.|
 
-![Alt text](Assets/image1.png)
+![Alt text](Assets2/image1.png)
 
 ## Day 8 of 60days
 - During my SQL learning journey,Today I learn about Primary KEY and Foreign KEY.
@@ -249,3 +250,18 @@ Aggregate functions.
 #### CASE with AVG
 ![Alt text](Assets/day18(2)of60.png)
 
+## Day 19 of 60days
+- During my SQL learning journey,Today I learn about simple subquries to extract and transform out data.
+- A subquery is a query nested inside another query.
+- A subquery can be placed in any part of your query -- such as the SELECT, FROM, WHERE, or GROUP BY clause. 
+- Where you place subqueries depends on what you want your final data to look like.
+- A subquery can return a variety of information, such as scalar quantities, or numbers, like the ones listed here. 
+
+![Alt text](Assets2/image3.png)
+
+![Alt text](Assets/day19of60.png)
+
+## Day 20 of 60days
+- During my SQL learning journey,Today I learn about simple subquries to extract and transform out data.
+- I learn about the use of subqueries in  FROM statement.
+- Subqueries in the FROM statement are a robust tool for restructuring and transforming your data. 
