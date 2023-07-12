@@ -16,10 +16,10 @@
 |14| Set Theory for SQL Joins|
 |15| Subqueries|
 |16 - 18 | Data manipulation With CASE Statement |
-|19-23|Simple Sub queries|
+|19 - 23|Simple Sub queries|
 |24|Correlated Sub queries|
 |25|Nested Sub queries|
-|26|Common Table Expression|
+|26 - 28|Common Table Expression|
 
 
 ## Day 1 of 60days
@@ -327,3 +327,30 @@ Aggregate functions.
 -Finally, a CTE can reference itself ina special kind of table called a recursive CTE. 
 
 ![Alt text](Assets2/image8.png)
+
+## Day 27 of 60days
+- During my SQL learning journey,Today I pratice writing about Common Table Expression (CTE)
+
+![Alt text](Assets/day27(1)of60.png)
+
+![Alt text](Assets/day27(2)of60.png)
+
+![Alt text](Assets/day27(3)of60.png)
+## Day 28 of 60days
+- During my SQL learning journey,Today I learn about difference between different techniques.
+
+### Why using different techniques??
+![Alt text](Assets2/image9.png)
+
+### Different use cases
+![Alt text](Assets2/image10.png)
+
+## Day 29 of 60days
+- During my SQL learning journey, Today I learn about Window Function in SQL.
+- Window functions are a class of functions that perform calculations on a result set that has already been generated, also referred to as a "window".
+- I Learn the concept about RANK function.
+- A RANK simply creates a column numbering your data set from highest to lowest, or lowest to highest, based on a column that you specify.
+
+![Alt text](Assets/day29(1)of60.png)
+
+![Alt text](Assets/day29(2)of60.png)
