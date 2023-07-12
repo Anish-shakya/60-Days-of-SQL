@@ -20,6 +20,8 @@
 |24|Correlated Sub queries|
 |25|Nested Sub queries|
 |26 - 28|Common Table Expression|
+|29 - 30|Window Function OVER(),PARTITION BY, RANK()|
+
 
 
 ## Day 1 of 60days
@@ -353,4 +355,14 @@ Aggregate functions.
 
 ![Alt text](Assets/day29(1)of60.png)
 
+#### Using RANK() function 
 ![Alt text](Assets/day29(2)of60.png)
+
+## Day 30 of 60days
+- During my SQL learning journey, Today I learn about OVER with PARTITION BY.
+- One Important statement we can add to our OVER clause is PARTITION BY.
+- A partition allows us to calculate separate values for different categories established in a partition. 
+
+![Alt text](Assets/day30(1)of60.png)
+
+![Alt text](Assets/day30(2)of60.png)
