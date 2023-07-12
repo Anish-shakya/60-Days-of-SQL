@@ -18,6 +18,8 @@
 |16 - 18 | Data manipulation With CASE Statement |
 |19-23|Simple Sub queries|
 |24|Correlated Sub queries|
+|25|Nested Sub queries|
+|26|Common Table Expression|
 
 
 ## Day 1 of 60days
@@ -303,5 +305,25 @@ Aggregate functions.
 
 ![Alt text](Assets2/image6.png)
 
-
 ![Alt text](Assets/day24of60.png)
+
+## Day 25 of 60days
+- During my SQL learning journey,Today I learn about Nested Subqueires.
+- I also learn about the Extract function to extract Month,Day and Year from the DATE
+
+![Alt text](Assets/day25of60.png)
+
+## Day 26 of 60days
+
+- During my SQL learning journey,Today I learn about Common Table Expression (CTE) 
+-  Common table expressions, or CTEs are a special type of subquery that is declared ahead of your main query.
+
+![Alt text](Assets2/image7.png)
+
+#### why use CTEs?
+- Common table expressions have numerous benefits over a subquery written inside your main query.
+- First, the CTE is run only once, and then stored in memory, so it often leads to an improvement in the amount of time it takes to run your query.
+- Second, CTEs are an excellent tool for organizing long and complex CTEs.
+-Finally, a CTE can reference itself ina special kind of table called a recursive CTE. 
+
+![Alt text](Assets2/image8.png)
