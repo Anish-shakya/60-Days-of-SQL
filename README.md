@@ -366,3 +366,27 @@ Aggregate functions.
 ![Alt text](Assets/day30(1)of60.png)
 
 ![Alt text](Assets/day30(2)of60.png)
+
+## Day 31 of 60days
+- During my SQL learning journey, Today I learn about Sliding Window.
+-  A window functions can also be used to calculate information that changes with each subsequent row in a data set.
+- We can use sliding windows to calculate a wide variety of information that aggregates one row at a time down your data set like running totals, sums, counts, and averages in any order we need.
+
+![Alt text](Assets2/image11.png)
+- The purpose of the ROWS clause is to specify the window frame in relation to the current row.
+
+|Keyword|Description|
+|-------|------------|
+|PRECEDING|n rows before the current row.|
+|FOLLOWING|n rows after the current row|
+|UNBOUNDED PRECEDING|All rows before the current row.|
+|UNBOUNDED FOLLOWING|All rows after the current row|
+
+![Alt text](Assets2/image12.png)
+
+## Day 32 of 60days
+- During my SQL learning journey, Today I pratice writing queries about Sliding Window.
+
+![Alt text](Assets/day32(1)of60.png)
+
+![Alt text](Assets/day32(2)of60.png)
