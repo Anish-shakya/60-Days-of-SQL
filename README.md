@@ -406,3 +406,13 @@ Aggregate functions.
 
 ![Alt text](Assets/day33(2)of60.png)
 ![Alt text](Assets2/image14.png)
+
+## Day 34 of 60days
+- During my SQL learning journey, Today I learn more about using LAG() function with PARTITION BY.
+- Enter PARTITION BY. This OVER subclause splits the table into partitions based on a column's unique values, similar to GROUP BY.
+
+![Alt text](Assets2/image15.png)
+- Adding PARTITION BY Event in the OVER clause before ORDER will separate the table into two partitions, one for Discus Throw and one for Triple Jump, the two unique values in the Event column.
+- The one difference in the results is that the first row of the Triple Jump champions correctly has null as Last Champion. That's because it's the first row in its partition.
+
+![Alt text](Assets2/image16.png)
