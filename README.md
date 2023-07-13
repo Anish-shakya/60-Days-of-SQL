@@ -20,7 +20,8 @@
 |24|Correlated Sub queries|
 |25|Nested Sub queries|
 |26 - 28|Common Table Expression|
-|29 - 30|Window Function OVER(),PARTITION BY, RANK()|
+|29 - 32|Sliding Window Function OVER(),PARTITION BY, RANK()|
+|33 - |More Window Function |
 
 
 
@@ -390,3 +391,18 @@ Aggregate functions.
 ![Alt text](Assets/day32(1)of60.png)
 
 ![Alt text](Assets/day32(2)of60.png)
+
+## Day 33 of 60days
+- During my SQL learning journey, Today I learn more about Window function.
+- Today I learn about ROW_NUMBER and LAG function.
+- ROW_NUMBER assigns a number to each row.
+- LAG is a window function that takes a column and a number n and returns the column's value n rows before the current row. 
+
+![Alt text](Assets2/image13.png)
+
+![Alt text](Assets/day33(1)of60.png)
+
+- using LAG() function to find previous year champion country
+
+![Alt text](Assets/day33(2)of60.png)
+![Alt text](Assets2/image14.png)
