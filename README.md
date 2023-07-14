@@ -20,9 +20,9 @@
 |24|Correlated Sub queries|
 |25|Nested Sub queries|
 |26 - 28|Common Table Expression|
-|29 - 32|Sliding Window Function OVER(),PARTITION BY, RANK()|
-|33 - |More Window Function |
-
+|29 - 32|Sliding Window Function|
+|33 - 34 |More Window Function |
+|35 |Ranking Function |
 
 
 ## Day 1 of 60days
@@ -416,3 +416,59 @@ Aggregate functions.
 - The one difference in the results is that the first row of the Triple Jump champions correctly has null as Last Champion. That's because it's the first row in its partition.
 
 ![Alt text](Assets2/image16.png)
+
+![Alt text](Assets/day34of60.png)
+
+## Day 35 of 60days
+- During my SQL learning journey, Today I learn about
+LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
+
+|Type|Function|Description|
+|---|--------|-----------|
+|Relative|LAG()|LAG(column, n) returns column 's value at the row n rows before the current row|
+|Relative|LEAD()|LEAD(column, n) returns column 's value at the row n rows after the current row|
+|Absolute|FIRST_VALUE()|FIRST_VALUE(column) returns the first value in the table or partition|
+|Absolute|LAST_VALUE()|LAST_VALUE(column) returns the last value in the table or partition|
+
+![Alt text](Assets2/image17.png)
+
+![Alt text](Assets2/image18.png)
+
+![Alt text](Assets/day35of60.png)
+
+## Day 36 of 60days
+- During my SQL learning journey, Today I learn more about ranking functions.
+
+|Function|Description|
+|--------|-----------|
+|ROW_NUMBER()| It assigns a unique number to each row based on the provided order. If two rows have the same value, it still assigns them unique numbers, but based on an internally selected order.|
+|RANK()|RANK will assign the same number to two rows if their values are equal. After the repeated ranks, it skips over the next rank|
+|DESNSE_RANK()|DENSE_RANK never skips ranks. ROW_NUMBER and RANK will have the same last rank, the count of rows, while DENSE_RANK's last rank is the count of unique values being ranked.|
+
+#### Difference Between Ranking Functions
+
+|RANK|ROW_NUMBER|DENSE_RANK|
+|-----|---------|----------|
+|Assigns the same rank to tied rows|Assigns a unique number to each row within a partition|Assigns a unique rank to each row within a partition|
+| Skips any ranks |Does not skip any numbers |Skips any ranks  and assigns consecutive ranks|
+|Generates gaps inranks for tied rows|Generates Sequential numbers for each row|Generates Sequential numbers for each row|
+
+![Alt text](Assets2/image19.png)
+
+- RANK Function
+
+![Alt text](Assets/day36(1)of60.png)
+
+- DENSE_RANK Function
+
+![Alt text](Assets/day36(2)of60.png)
+
+## Day 37 of 60days
+- During my SQL learning journey, Today I learn about Paging.
+- Paging is another common application of window functions.
+- Paging is splitting data into (approximately) equal chunks.
+- NTILE is a window function that takes as input n, then splits the data into n approximately equal pages.
+
+- NTILE is to split the data into thirds or quartiles. 
+
+![Alt text](Assets/day37of60.png)
