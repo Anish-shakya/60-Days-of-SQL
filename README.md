@@ -469,6 +469,6 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - Paging is splitting data into (approximately) equal chunks.
 - NTILE is a window function that takes as input n, then splits the data into n approximately equal pages.
 
-- NTILE is to split the data into thirds or quartiles. 
+- NTILE is to split the data into thirds or quartiles....
 
 ![Alt text](Assets/day37of60.png)
