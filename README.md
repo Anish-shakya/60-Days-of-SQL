@@ -472,3 +472,28 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - NTILE is to split the data into thirds or quartiles.
 
 ![Alt text](Assets/day37of60.png)
+
+## Day 38 of 60days
+
+- During my SQL learning journey, Today I learn about Frames in SQL.
+- A Frame is a RANGE BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING.
+- Without the frame, LAST_VALUE would return the row's value in the defined column for eg lets say city column here, the city and Last_city columns would have the same value.
+- The above situation is created because a frame starts at the beginning of a table or partition and ends at the current row,so the last row LAST_VALUE sees in the current row.
+
+![Alt text](Assets2/image20.png)
+
+- Explanation on above examples
+- ROWS BETWEEN 3 PRECEDIND AND CURRENT ROW
+  - The above Frame starts at the 3 rows before current row
+  - And ends at current row
+   - So, the frame has total of 4 rows.
+
+- ROWS BETWEEN 3 PRECEDIND AND 1 FOLLOWING
+  - The above Frame starts at the 1 rows before current row
+  - And ends at 1 row after current row
+  - so , the frame has total of 3 rows.
+
+- ROWS BETWEEN 5 PRECEDIND AND 1 PRECEDING
+  - The aboce Frame starts at the 5 rows before current row
+  - And ends at 1 row before current row
+  - so, the frame has total of 5 rows.
