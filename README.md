@@ -1,4 +1,4 @@
-# My 60 days Journey of Learning Structured Query Language For Data Analysis
+# My 60 days Journey of Learning Structured Query Language For Data Analysis 📈📊📉
 
 ![Alt text](Assets2/photo.png)
 
@@ -9,6 +9,7 @@
 |SqlBolt|https://sqlbolt.com/|
 |W3School|https://www.w3schools.com/sql/|
 
+## Learning Logs 📑
 | Day | Description |
 | ----------- | ----------- |
 |1 - 6| Basic SQL|
@@ -22,10 +23,11 @@
 |26 - 28|Common Table Expression|
 |29 - 32|Sliding Window Function|
 |33 - 34 |More Window Function |
-|35 |Ranking Function |
+|35 -37 |Ranking Function |
+|38-39|Frames in SQL|
 
 
-## Day 1 of 60days
+## Day 1 of 60days 
 - During my SQL learning journey, Today I learn about the basic introduction and Different Database language.
 - Introduction : SQL (Structured Query Language) is a standard programming language designed for managing and manipulating relational databases. It provides a set of commands and syntax for performing various operations on data stored in a database.
 - SQL plays a crucial role in data analysis by providing powerful tools to retrieve, filter, aggregate, and manipulate data stored in relational databases.
@@ -504,4 +506,42 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image23.png)
 
 ![Alt text](Assets2/image22.png)
+
+## Day 39 of 60days 
+-  During my SQL learning journey, Today I pratice on how we can use frames to change the behaviour of window and aggregate function in sql.
+
+![Alt text](Assets/day39(1)of60.png)
+
+![Alt text](Assets2/image24.png)
+
+![Alt text](Assets/day39(2)of60.png)
+
+## Day 40 of 60days 
+- During my SQL learning journey, Today I Learn about Moving averages and total in SQL.
+- One of the most common uses for aggregate window functions with frames is the calculation of moving averages and totals.
+- A moving average is the average of the last n periods of a column's values
+- Moving averages are used in a variety of industries.
+- For example, in sales, the 10-day moving average is the average of the last ten days' units sold per day. 
+- It's used to indicate momentum and trends; if a day's units sold is higher than its moving average, then the next day, more units are likely to be sold.
+- Moving averages are also useful in eliminating seasonality, the normal fluctuation of units sold per day.
+- A moving total, on the other hand, is the sum of the last n periods of a column's values. 
+
+![Alt text](Assets2/image25.png)
+
+#### Moving Average of last 3 years
+
+![Alt text](Assets2/image26.png)
+
+#### Moving Total of last 3 years
+
+![Alt text](Assets2/image27.png)
+
+![Alt text](Assets/day40(1)of60.png)
+
+![Alt text](Assets2/image28.png)
+
+![Alt text](Assets/day40(2)of60.png)
+
+![Alt text](Assets2/image29.png)
+
 
