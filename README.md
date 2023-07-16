@@ -479,6 +479,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - A Frame is a RANGE BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING.
 - Without the frame, LAST_VALUE would return the row's value in the defined column for eg lets say city column here, the city and Last_city columns would have the same value.
 - The above situation is created because a frame starts at the beginning of a table or partition and ends at the current row,so the last row LAST_VALUE sees in the current row.
+- Frames enable you to change the behavior of a window function by defining what rows the window function takes as input
 
 ![Alt text](Assets2/image20.png)
 
@@ -497,3 +498,10 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
   - The aboce Frame starts at the 5 rows before current row
   - And ends at 1 row before current row
   - so, the frame has total of 5 rows.
+
+![Alt text](Assets2/image21.png)
+
+![Alt text](Assets2/image23.png)
+
+![Alt text](Assets2/image22.png)
+
