@@ -523,3 +523,35 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image24.png)
 
 ![Alt text](Assets/day39(2)of60.png)
+
+
+
+
+## Day 40 of 60days 
+- During my SQL learning journey, Today I Learn about Moving averages and total in SQL.
+- One of the most common uses for aggregate window functions with frames is the calculation of moving averages and totals.
+- A moving average is the average of the last n periods of a column's values
+- Moving averages are used in a variety of industries.
+- For example, in sales, the 10-day moving average is the average of the last ten days' units sold per day. 
+- It's used to indicate momentum and trends; if a day's units sold is higher than its moving average, then the next day, more units are likely to be sold.
+- Moving averages are also useful in eliminating seasonality, the normal fluctuation of units sold per day.
+- A moving total, on the other hand, is the sum of the last n periods of a column's values. 
+
+![Alt text](Assets2/image25.png)
+
+#### Moving Average of last 3 years
+
+![Alt text](Assets2/image26.png)
+
+#### Moving Total of last 3 years
+
+![Alt text](Assets2/image27.png)
+
+![Alt text](Assets/day40(1)of60.png)
+
+![Alt text](Assets2/image28.png)
+
+![Alt text](Assets/day40(2)of60.png)
+
+![Alt text](Assets2/image29.png)
+
