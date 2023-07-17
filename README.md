@@ -524,9 +524,6 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day39(2)of60.png)
 
-
-
-
 ## Day 40 of 60days 
 - During my SQL learning journey, Today I Learn about Moving averages and total in SQL.
 - One of the most common uses for aggregate window functions with frames is the calculation of moving averages and totals.
