@@ -514,3 +514,12 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image23.png)
 
 ![Alt text](Assets2/image22.png)
+
+## Day 39 of 60days 
+-  During my SQL learning journey, Today I pratice on how we can use frames to change the behaviour of window and aggregate function in sql.
+
+![Alt text](Assets/day39(1)of60.png)
+
+![Alt text](Assets2/image24.png)
+
+![Alt text](Assets/day39(2)of60.png)
