@@ -552,3 +552,22 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image29.png)
 
+## Day 41 of 60days 
+- During my SQL learning journey, Today I Learn about Pivoting.
+- Pivoting transforms a table by making columns out of the unique values of one of its columns.
+
+
+![Alt text](Assets2/image30.png)
+
+- CROSSTAB allows you to pivot a table by a certain column. You'll need to use the CREATE EXTENSION statement before using CROSSTAB.
+- CREATE EXTENSION makes extra functions in an extension available for use. 
+
+![Alt text](Assets2/image31.png)
+
+![Alt text](Assets2/image32.png)
+
+![Alt text](Assets/day41(1)of60.png)
+
+![Alt text](Assets2/image33.png)
+
+![Alt text](Assets/day41(2)of60.png)
