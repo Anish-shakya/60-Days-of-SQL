@@ -18,7 +18,7 @@
 |W3School|https://www.w3schools.com/sql/|
 
 ## Learning Logs 📑
-| Day | Description |
+| Day | Skill Learned |
 | ----------- | ----------- |
 |1 - 6| Basic SQL|
 |7-13|Intermediate SQL|
@@ -31,8 +31,8 @@
 |26 - 28|Common Table Expression|
 |29 - 32|Sliding Window Function|
 |33 - 34 |More Window Function |
-|35 -37 |Ranking Function |
-|38-39|Frames in SQL|
+|35 - 37 |Ranking Function |
+|38 - 40|Frames in SQL|
 
 
 ## Day 1 of 60days 
