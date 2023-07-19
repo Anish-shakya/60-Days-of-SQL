@@ -603,3 +603,24 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets/day42(2)of60.png)
 
 ![Alt text](Assets2/image40.png)
+
+
+### COALESCE
+- COALESCE takes a list of values and returns the first non-null value, going from left to right.
+- COALESCE is useful when using SQL operations that return nulls, such as ROLLUP and CUBE. 
+
+![Alt text](Assets2/image41.png)
+
+### STRING_AGG
+- STRING_AGG takes all the values of a column and concatenates them, with a separator in between each value.
+- STRING_AGG is useful when you need to reduce the number of rows returned.
+
+![Alt text](Assets2/image42.png)
+
+![Alt text](Assets/day42(3)of60.png)
+
+![Alt text](Assets2/image43.png)
+
+![Alt text](Assets/day42(4)of60.png)
+
+![Alt text](Assets2/image44.png)
