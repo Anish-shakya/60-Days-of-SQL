@@ -571,3 +571,17 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image33.png)
 
 ![Alt text](Assets/day41(2)of60.png)
+
+## Day 42 of 60days 
+- During my SQL learning journey, Today I Learn about ROLLUP,CUBE, COALESCE , STRING_AGG
+
+### ROLLLUP
+- We can use ROLLUP and CUBE to calculate group-level and grand totals
+- ROLLUP is a GROUP BY subclause that includes extra rows for group-level aggregations.
+
+
+![Alt text](Assets2/image34.png)
+
+![Alt text](Assets2/image35.png)
+
+![Alt text](Assets2/image36.png)
