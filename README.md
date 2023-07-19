@@ -585,3 +585,21 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image35.png)
 
 ![Alt text](Assets2/image36.png)
+
+### CUBE
+- CUBE is much like its cousin ROLLUP, except that it's not hierarchical. It generates all possible group-level aggregations
+
+![Alt text](Assets2/image37.png)
+
+![Alt text](Assets2/image38.png)
+
+- With ROLLUP and CUBE, we can succinctly generate many group-level aggregations. Both are generalized by a special GROUPING SETS clause
+
+
+![Alt text](Assets/day42(1)of60.png)
+
+![Alt text](Assets2/image39.png)
+
+![Alt text](Assets/day42(2)of60.png)
+
+![Alt text](Assets2/image40.png)
