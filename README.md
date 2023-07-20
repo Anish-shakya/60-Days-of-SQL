@@ -625,3 +625,10 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image44.png)
 
+## Day 43 of 60days 
+- During my SQL learning journey, Today I learn about Functions to Manipulate data in PostgreSQL.
+- Learned about DATE ,TIME, TIMESTAMP, INTERVAL and ARRAY data types.
+
+#### TIMESTAMP 
+- TIMESTAMPs contain both a date value and a time value with microsecond precision. 
+- TIMESTAMPs in PostgreSQL use the ISO 8601 format which is a four digit year followed by a two digit month and day separated by dashes. 
