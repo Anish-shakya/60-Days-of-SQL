@@ -652,3 +652,24 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets/day43(1)of60.png)
 
 ![Alt text](Assets2/image-3.png)
+
+
+#### ARRAYs 
+- Arrays in PostgreSQL are very similar to arrays in most programming languages. 
+
+![Alt text](Assets2/image-4.png)
+
+![Alt text](Assets2/image-5.png)
+
+![Alt text](Assets2/image-6.png)
+
+![Alt text](Assets2/image-7.png)
+
+![Alt text](Assets2/image-8.png)
+
+![Alt text](Assets/day43(2)of60.png)
+
+#### ANY and @> ARRAY[ ]
+
+![Alt text](Assets\day43(3)of60.png)
+
