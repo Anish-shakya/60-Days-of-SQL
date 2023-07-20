@@ -632,3 +632,9 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 #### TIMESTAMP 
 - TIMESTAMPs contain both a date value and a time value with microsecond precision. 
 - TIMESTAMPs in PostgreSQL use the ISO 8601 format which is a four digit year followed by a two digit month and day separated by dashes. 
+
+
+![Alt text](Assets2/image-16.png)
+#### DATE and TIME
+-  When we only need to store a part of the TIMESTAMP in your database, the DATE and TIME types may be better options. 
+- DATE and TIME types are essentially the date and time values of the TIMESTAMP. 
