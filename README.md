@@ -635,6 +635,20 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 
 ![Alt text](Assets2/image-16.png)
+
 #### DATE and TIME
 -  When we only need to store a part of the TIMESTAMP in your database, the DATE and TIME types may be better options. 
 - DATE and TIME types are essentially the date and time values of the TIMESTAMP. 
+
+
+![Alt text](Assets2/image-1.png)
+
+#### INTERVAL
+- INTERVAL types store date and time data as a period of time in years, months, days, hours, seconds, etc.
+- INTERVALs are useful when you want to do arithmetic on date and time columns.
+
+![Alt text](Assets2/image-2.png)
+
+![Alt text](Assets/day43(1)of60.png)
+
+![Alt text](Assets2/image-3.png)
