@@ -692,3 +692,11 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets/day44(1)of60.png)
 
 ![Alt text](Assets2/image-12.png)
+
+#### EXTRACT() and DATE_PART() function
+- The PostgreSQL EXTRACT() function retrieves a field such as a year, month, and day from a date/time value.
+- DATE_PART() a built-in function that extracts/retrieves a specific part(like a month, decade, hour, minutes, etc.) from a given TIMESTAMP
+
+![Alt text](Assets2/image-13.png)
+
+![Alt text](Assets2/image-14.png)
