@@ -593,7 +593,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image38.png)
 
-- With ROLLUP and CUBE, we can succinctly generate many group-level aggregations. Both are generalized by a special GROUPING SETS clause
+- With ROLLUP and CUBE, we can succinctly generate many group-level aggregations. Both are generalized by a special GROUPING SETS clause...
 
 
 ![Alt text](Assets/day42(1)of60.png)
