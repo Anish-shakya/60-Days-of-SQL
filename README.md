@@ -700,3 +700,8 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-13.png)
 
 ![Alt text](Assets2/image-14.png)
+
+
+#### DATE_TRUNC()
+
+![Alt text](Assets2/image-15.png)
