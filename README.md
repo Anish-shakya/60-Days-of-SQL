@@ -673,3 +673,22 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets\day43(3)of60.png)
 
+## Day 44 of 60days 
+- During my SQL learning journey, Today I learn about following topics under Data Manipulating funtions in postgreSQL
+- The CURRENT_DATE,CRRENT_TIMESTAMP,NOW() function
+- The AGE() function
+- The EXTRACT(), DATE_PART(),DATE_TRUNC() functions
+
+![Alt text](Assets2/image-9.png)
+
+![Alt text](Assets2/image-10.png)
+
+- Using an INTERVAL is a great technique when you need to complete relative date and time calculations.
+
+- We can also perform multiplication and division on date and time data types using intervals which is another useful tool when you have relative date and time data.
+
+![Alt text](Assets2/image-11.png)
+
+![Alt text](Assets/day44(1)of60.png)
+
+![Alt text](Assets2/image-12.png)
