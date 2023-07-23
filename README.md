@@ -705,3 +705,69 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 #### DATE_TRUNC()
 
 ![Alt text](Assets2/image-15.png)
+
+## Day 45 of 60days 
+- During my SQL learning journey, Today I learn about 
+ following topics under Data Manipulating funtions in postgreSQL
+- Reformatting string and character data.
+- determine the position of a character within a string.
+- Parsing string and character data.
+- Truncating and padding string data.
+
+### String Concatenation
+- CONCAT() Function is used to combine string in Postgres SQL.
+
+![Alt text](Assets2/image-17.png)
+
+- PostgreSQL also allows you to concatenate both string and non-string data
+
+![Alt text](Assets2/image-18.png)
+
+
+
+### UPPER() and LOWER()
+- UPPER() and LOWER() is used to convert string to upper and lower case respectiely.
+
+![Alt text](Assets/day45(1)of60.png)
+
+### Replacing the String 
+- REPLACE() function is used to replace the string.
+- The function takes three parameters. 
+-The first is the source string that you want to manipulate
+-The second is the substring you want to find in the source string 
+- The last parameter is the replacement string.
+
+![Alt text](Assets2/image-19.png)
+
+![Alt text](Assets/day45(2)of60.png)
+
+### Reversing the String
+- This function reverse the order of string.
+- It accepts a string as its only parameter and returns the same string in reverse order
+
+![Alt text](Assets2/image-20.png)
+
+### Parsing string data
+#### CHAR_LENGTH()
+- CHAR_LENGTH accepts a string as an input and returns the number of characters in the string as an integer for the output.
+
+![Alt text](Assets2/image-21.png)
+
+#### POSITION()
+-  The POSITION function returns an integer which represents the number of characters from left to right before the search string is located.
+
+![Alt text](Assets2/image-22.png)
+
+#### LEFT() and RIGHT() and SUBSTRING()
+- The LEFT function allows you to extract the first "n" characters of a string.
+- The RIGHT function is very similar to LEFT but as you might expect it extracts the last "n" characters of a string.
+- SUBSTRING can be combined with other functions to provide additional capabilities. 
+
+![Alt text](Assets2/image-23.png)
+
+![Alt text](Assets2/image-24.png)
+
+#### TRIM()
+- The TRIM function will remove characters from either the start or end of the string or both and accepts three parameters.
+
+![Alt text](Assets/day45(3)of60.png)
