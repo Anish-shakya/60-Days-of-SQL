@@ -771,3 +771,16 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - The TRIM function will remove characters from either the start or end of the string or both and accepts three parameters.
 
 ![Alt text](Assets/day45(3)of60.png)
+
+## Day 46 of 60days 
+- During my SQL learning journey, Today I learn about  User-define data types in SQL.
+- A user-defined data type is created using the CREATE TYPE command which registers the type in a system table and makes it available to be used anywhere PostgreSQL expects a type name.
+- Enumerated data types or enums allow you to define a custom list of values that are never going to change
+
+![Alt text](Assets2/image-25.png)
+
+- we can also use the INFORMATION_SCHEMA system database to get information about user-defined data types.
+
+![Alt text](Assets2/image-26.png)
+
+![Alt text](Assets/day46of60.png)
