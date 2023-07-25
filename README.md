@@ -784,3 +784,16 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-26.png)
 
 ![Alt text](Assets/day46of60.png)
+
+
+### PostreSQL Extensions
+
+- Most PostgreSQL distributions come bundled with a common set of widely used and supported extensions from the community that can be used by simply enabling them.
+- PostGIS adds support for allowing location queries to be run in SQL.
+- PostPic allows for image processing within the database. fuzzystrmatch and pg_trgm provide functions that extend full text search capabilities by finding similarities between strings.
+
+![Alt text](Assets2/image-27.png)
+
+![Alt text](Assets2/image-28.png)
+
+![Alt text](Assets2/image-29.png)
