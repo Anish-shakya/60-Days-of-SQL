@@ -797,3 +797,8 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-28.png)
 
 ![Alt text](Assets2/image-29.png)
+
+
+### fuzzystrmatch or fuzzy searching
+- When preforming a full text search based on user input or looking to perform an analysis and comparison of text data in a natural language processing exercise, a function that we will use often is levenshtein from the fuzzystrmatch extension.
+- The levenshtein function calculates the levenshtein distance between two strings which is the number of edits required for the strings to be a perfect match. 
