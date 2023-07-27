@@ -802,3 +802,10 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ### fuzzystrmatch or fuzzy searching
 - When preforming a full text search based on user input or looking to perform an analysis and comparison of text data in a natural language processing exercise, a function that we will use often is levenshtein from the fuzzystrmatch extension.
 - The levenshtein function calculates the levenshtein distance between two strings which is the number of edits required for the strings to be a perfect match. 
+
+
+### pg_trgm
+- The pg_trgm extension provides functions and operators to determine the similarity of two strings using trigram matchings.
+- Trigrams are groups of 3 consecutive characters in a string and based on the number of matching trigrams in two strings will provide a measurement of how similar they are
+- The similarity function accepts two parameters; the first being the string you wish to compare and the second being the string you wish to compare against. 
+- This function will return a number between 0-1 with zero representing no matching trigrams at all and 1 representing a perfect match.
