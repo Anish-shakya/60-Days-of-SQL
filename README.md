@@ -671,7 +671,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 #### ANY and @> ARRAY[ ]
 
-![Alt text](Assets\day43(3)of60.png)
+![Alt text](Assets/day43(3)of60.png)
 
 ## Day 44 of 60days 
 - During my SQL learning journey, Today I learn about following topics under Data Manipulating funtions in postgreSQL
@@ -809,3 +809,6 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - Trigrams are groups of 3 consecutive characters in a string and based on the number of matching trigrams in two strings will provide a measurement of how similar they are
 - The similarity function accepts two parameters; the first being the string you wish to compare and the second being the string you wish to compare against. 
 - This function will return a number between 0-1 with zero representing no matching trigrams at all and 1 representing a perfect match.
+
+![Alt text](Assets2/image-30.png)
+
