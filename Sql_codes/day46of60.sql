@@ -39,3 +39,8 @@ description,
 FROM 
   film
 ORDER BY 3
+
+
+SELECT name FROM publisher
+WHERE pid NOT IN 
+        (SELECT pid FROM publish)
