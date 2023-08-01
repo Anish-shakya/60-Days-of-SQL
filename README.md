@@ -822,3 +822,18 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image-32.png)
 
+## Day 47 of 60days 
+- During my SQL learning journey, Today I learn about Expolatory Data Analysis in SQL.
+- Using coalesce() function to specifyping a default or backup value when a comun contains NULL values.
+    - coalesce(NUll,1,2) =1
+    - coalesce(NUll,NULL) =NULL
+    - coalesce(2,3,NULL) =3
+
+![Alt text](Assets/day47(1)of60.png)
+
+![Alt text](Assets/day47(2)of60.png)
+
+![Alt text](Assets2/image-33.png)
+
+
+- Revised the CAST() function to cast data from one type to another type
