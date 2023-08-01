@@ -821,3 +821,4 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets/day46(3)of60.png)
 
 ![Alt text](Assets2/image-32.png)
+
