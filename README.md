@@ -843,3 +843,6 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - Working with more Summary function in Sql
 #### Corelation
 - Correlation is one measure of the relationship between two variables. A correlation coefficient can range from 1 to -1, with larger values indicating a stronger positive relationship, and more negative values indicating a stronger negative relationship.
+
+#### Median
+- Another common summary measure is the median. The median is the 50th percentile, or midpoint, in a sorted list of values.
