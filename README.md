@@ -840,4 +840,6 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day47(3)of60.png)
 
-
+- Working with more Summary function in Sql
+#### Corelation
+- Correlation is one measure of the relationship between two variables. A correlation coefficient can range from 1 to -1, with larger values indicating a stronger positive relationship, and more negative values indicating a stronger negative relationship.
