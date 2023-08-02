@@ -836,4 +836,8 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-33.png)
 
 
-- Revised the CAST() function to cast data from one type to another type
+- Revised the CAST() function to cast data from one type to another type.
+
+![Alt text](Assets/day47(3)of60.png)
+
+
