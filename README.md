@@ -846,3 +846,12 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 #### Median
 - Another common summary measure is the median. The median is the 50th percentile, or midpoint, in a sorted list of values.
+
+
+![Alt text](Assets2/image-34.png)
+
+- To get the median, use a percentile function. The syntax for the percentile functions is different than for other functions you've seen because the data must be ordered to do the computation. It's called ordered-set aggregate syntax.
+
+![Alt text](Assets2/image-35.png)
+
+![Alt text](Assets2/image-36.png)
