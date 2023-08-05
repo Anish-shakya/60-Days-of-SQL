@@ -862,3 +862,5 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - During my SQL learning journey, Today I learn about creating a Temporary table simple called temp table in SQL
 
 ![Alt text](Assets2/image-37.png)
+
+- We can also insert new rows into a table after we've created it. We use an "insert into" statement with the name of the table, followed by a select query that will generate the rows we want to add to the table. 
