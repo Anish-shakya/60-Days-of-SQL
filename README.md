@@ -855,3 +855,8 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-35.png)
 
 ![Alt text](Assets2/image-36.png)
+
+
+
+## Day 48 of 60days 
+- During my SQL learning journey, Today I learn about creating a Temporary table simple called temp table in SQL
