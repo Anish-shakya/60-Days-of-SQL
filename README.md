@@ -860,3 +860,5 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ## Day 48 of 60days 
 - During my SQL learning journey, Today I learn about creating a Temporary table simple called temp table in SQL
+
+![Alt text](Assets2/image-37.png)
