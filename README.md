@@ -867,3 +867,9 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 
 ![Alt text](Assets2/image-38.png)
+
+
+- To delete a table, use the drop table command. The table will be deleted immediately without warning.
+- Temporary tables will also be deleted automatically when you disconnect from the database.
+
+![Alt text](Assets2/image-39.png)
