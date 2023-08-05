@@ -864,3 +864,6 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-37.png)
 
 - We can also insert new rows into a table after we've created it. We use an "insert into" statement with the name of the table, followed by a select query that will generate the rows we want to add to the table. 
+
+
+![Alt text](Assets2/image-38.png)
