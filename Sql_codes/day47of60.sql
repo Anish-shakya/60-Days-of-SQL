@@ -56,3 +56,23 @@ SELECT sector,
  GROUP BY sector
  -- Order results by a value of interest
  ORDER BY mean;
+
+
+ 
+-- Fill in the command below with the name of the temp table
+DROP TABLE IF EXISTS recode;
+
+-- Create and name the temporary table
+CREATE TEMP TABLE recode AS
+-- Write the select query to generate the table 
+-- with distinct values of category and standardized values
+  SELECT DISTINCT category, 
+         RTRIM(SPLIT_PART(category, '-', 1)) AS standardized
+    -- What table are you selecting the above values from?
+    FROM evanston311;
+    
+-- Look at a few values before the next step
+SELECT DISTINCT standardized 
+  FROM recode
+ WHERE standardized LIKE 'Trash%Cart'
+    OR standardized LIKE 'Snow%Removal%';

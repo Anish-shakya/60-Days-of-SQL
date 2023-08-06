@@ -70,3 +70,6 @@ SELECT measure,
        ROUND(profits_change :: numeric,2) AS profits_change,
        ROUND(revenues_change :: numeric,2) AS revenues_change
   FROM correlations;
+
+
+

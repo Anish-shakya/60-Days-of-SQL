@@ -868,8 +868,10 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image-38.png)
 
-
 - To delete a table, use the drop table command. The table will be deleted immediately without warning.
 - Temporary tables will also be deleted automatically when you disconnect from the database.
 
 ![Alt text](Assets2/image-39.png)
+
+-Creating recode with a standardized column; use split_part() and then rtrim() to remove any remaining whitespace on the result of split_part().
+
