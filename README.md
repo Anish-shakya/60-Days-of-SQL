@@ -875,3 +875,14 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 -Creating recode with a standardized column; use split_part() and then rtrim() to remove any remaining whitespace on the result of split_part().
 
+### Substring
+- Revising the concept of Substring 
+- To extract characters from the middle of a string, use the substring function. The function takes a string or column to operate on, and then the keyword FROM. Next comes the index of the character to start with, counting from 1.
+
+![Alt text](Assets2/image-41.png)
+
+- The function split_part takes a string, the delimiter to split the string on, and the number position of the part of the split string to return, counting from one. 
+
+![Alt text](Assets2/image-42.png)
+
+- The delimiter can be a single character or a string of multiple characters.
