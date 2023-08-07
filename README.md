@@ -33,6 +33,10 @@
 |33 - 34 |More Window Function |
 |35 - 37 |Ranking Function |
 |38 - 40|Frames in SQL|
+|41 | pivoting in SQL|
+|42|RollUp,Cube,COALESCE|
+|43 - 47| Data Manipulation in SQL|
+|48|Temporay Tables in Sql|
 
 
 ## Day 1 of 60days 
