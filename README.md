@@ -865,11 +865,19 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 - We can also insert new rows into a table after we've created it. We use an "insert into" statement with the name of the table, followed by a select query that will generate the rows we want to add to the table. 
 
+![Alt text](Assets/day48(1)of60.png)
+
 
 ![Alt text](Assets2/image-38.png)
 
 - To delete a table, use the drop table command. The table will be deleted immediately without warning.
 - Temporary tables will also be deleted automatically when you disconnect from the database.
+
+![Alt text](Assets/day48(2)of60.png)
+
+![Alt text](Assets/day48(3)of60.png)
+
+![Alt text](Assets/day48(4)of60.png)
 
 ![Alt text](Assets2/image-39.png)
 
