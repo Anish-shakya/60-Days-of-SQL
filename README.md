@@ -898,3 +898,15 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-42.png)
 
 - The delimiter can be a single character or a string of multiple characters.
+
+## Day 49 of 60days 
+- During My sql learning journey, Today I started learn about how data driven decision can be made using sql as analytical tools.
+
+#### Data Driven Decision Making
+- Data-driven decision making refers to the process of making choice or taking actions based on information and evidence gathered from the insight instead of relying on solely on intuition or personal opinions.
+
+- Data-driven decision making in SQL involves using SQL (Structured Query Language) to analyze and manipulate data in a way that supports informed decision making. SQL is a powerful tool for working with databases, and it allows you to retrieve, manipulate, and summarize data to gain insights. 
+
+- For this learning journey i will be using the MovieNow Database where data structure are as below
+
+![Alt text](Assets2/image-43.png)
