@@ -907,8 +907,6 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 - Data-driven decision making in SQL involves using SQL (Structured Query Language) to analyze and manipulate data in a way that supports informed decision making. SQL is a powerful tool for working with databases, and it allows you to retrieve, manipulate, and summarize data to gain insights. 
 
-
-
 - For this learning journey i will be using the MovieNow Database where data structure are as below.
 
 ![Alt text](Assets2/image-43.png)
