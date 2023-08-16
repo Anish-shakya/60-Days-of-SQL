@@ -910,3 +910,9 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - For this learning journey i will be using the MovieNow Database where data structure are as below.
 
 ![Alt text](Assets2/image-43.png)
+
+#### Aggregation and Summarizing Data
+- For decision making, it is usually not important to look at individual records, but rather to examine summaries of certain groups
+
+- SUM, COUNT, MIN,MAX and COUNT aggregate functions  can be used to summarize the available data to draw some insights.
+
