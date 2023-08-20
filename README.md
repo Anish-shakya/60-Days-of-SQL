@@ -16,6 +16,7 @@
 |Udacity|https://www.udacity.com/course/sql-for-data-analysis--ud198|
 |SqlBolt|https://sqlbolt.com/|
 |W3School|https://www.w3schools.com/sql/|
+|Datacamp||
 
 ## Learning Logs 📑
 | Day | Skill Learned |
