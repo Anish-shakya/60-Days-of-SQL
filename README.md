@@ -914,5 +914,5 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 #### Aggregation and Summarizing Data
 - For decision making, it is usually not important to look at individual records, but rather to examine summaries of certain groups
 
-- SUM, COUNT, MIN,MAX and COUNT aggregate functions  can be used to summarize the available data to draw some insights..
+- SUM, COUNT, MIN,MAX and COUNT aggregate functions  can be used to summarize the available data to draw some insights.
 
