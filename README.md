@@ -38,6 +38,7 @@
 |42|RollUp,Cube,COALESCE|
 |43 - 47| Data Manipulation in SQL|
 |48|Temporay Tables in Sql|
+|49|Data Driven Decision Making|
 
 
 ## Day 1 of 60days 
@@ -917,3 +918,6 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 - SUM, COUNT, MIN,MAX and COUNT aggregate functions  can be used to summarize the available data to draw some insights.
 
+#### Sub Queries 
+- Subqueries, also known as nested queries or inner queries, are a powerful tool in SQL for performing data-driven decision-making during data analysis.
+- They allow you to use the results of one query as input to another query, enabling more complex and flexible data manipulations
