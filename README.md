@@ -921,5 +921,4 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 #### Sub Queries 
 - Subqueries are powerful tools in SQL that allow you to use the result of one query as a component in another query. 
 - Subqueries, also known as nested queries or inner queries, are a powerful tool in SQL for performing data-driven decision-making during data analysis.
-- They allow you to use the results of one query as input to another query, enabling more complex and flexible data manipulations
-
+- They allow you to use the results of one query as input to another query, enabling more complex and flexible data manipulations...
