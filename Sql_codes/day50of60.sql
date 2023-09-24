@@ -29,3 +29,12 @@ WHERE movie_id IN
      HAVING AVG(rating) > 
 		(SELECT AVG(rating)
 		 FROM renting));    
+
+
+--Select all movies with an average rating higher than 8.
+SELECT *
+FROM movies AS m
+WHERE 8 < -- Select all movies with an average rating higher than 8
+	(SELECT AVG(rating)
+	FROM renting AS r
+	WHERE r.movie_id = m.movie_id);

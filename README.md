@@ -928,3 +928,4 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - we can use as many nested sub queries as we want to fetch the result
 
 ![Alt text](Assets/day50of60.png)
+
