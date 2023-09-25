@@ -946,3 +946,8 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-45.png)
 
 ![Alt text](Assets2/image-46.png)
+
+## Day 51 of 60days 
+- During My sql learning journey, Today I started learn about how data driven decision can be made using SQL OLAP (On line Analytical Processing)
+
+## CUBE
