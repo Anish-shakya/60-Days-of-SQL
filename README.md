@@ -929,3 +929,20 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day50of60.png)
 
+
+- Revising Coorelated Nested Queries 
+
+![Alt text](Assets2/image45.png)
+
+![Alt text](Assets2/image-44.png)
+
+### Using EXISTS Function
+- It is a special case of a correlated nested query and allows us the check whether the result of a correlated nested query is empty or not. 
+- The EXISTS function returns a boolean value, which is either TRUE or FALSE. 
+- TRUE is returned if the result of the correlated nested query has at least one row, that means it is not empty.
+-  FALSE is returned if the query returns an empty table. When EXISTS returns TRUE the corresponding row of the outer query is selected. 
+- Since the EXISTS function only evaluates whether a nested query outputs any rows, it doesn't matter which columns are specified in the SELECT component. So we can always simply use SELECT star for the subquery.
+
+![Alt text](Assets2/image-45.png)
+
+![Alt text](Assets2/image-46.png)
