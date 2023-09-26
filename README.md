@@ -950,4 +950,12 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ## Day 51 of 60days 
 - During My sql learning journey, Today I started learn about how data driven decision can be made using SQL OLAP (On line Analytical Processing)
 
+## OLAP (On Line Analytical Processing)
+- It is used to interactively analyze the data and to summarize and visualize it.
+- Various OLAP operation is used to look for interesting pattern.
+- Some operators are:
+  - CUBE
+  - ROLLUP 
+  - GROUPING SETS
+
 ## CUBE
