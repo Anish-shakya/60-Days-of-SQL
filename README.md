@@ -987,3 +987,10 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - We can also include more than one aggregation in the table. Here we count the number of movie rentals and the number of ratings.
 
 ![Alt text](Assets/day51(3)of60.png)
+
+## GROUPING SETS
+![Alt text](Assets2/image-51.png)
+
+![Alt text](Assets2/image-52.png)
+
+![Alt text](Assets/day51(4)of60.png)
