@@ -959,3 +959,31 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
   - GROUPING SETS
 
 ## CUBE
+
+![Alt text](Assets2/image-47.png)
+
+- With the help of cube operator we can obtain the above result
+- We have to group the data by CUBE with the name of columns we are willing to group by
+
+![Alt text](Assets/day51(1)of60.png)
+
+![Alt text](Assets/day51(2)of60.png)
+
+
+## ROLLUP
+- ROLLUP is the next operator that we will introduce to facilitate the execution of OLAP queries.
+- The ROLLUP operator is always used in combination with a GROUP BY statement. Parentheses around the two column names have to be used. 
+- This query returns a table with different levels of aggregation.
+
+![Alt text](Assets2/image-48.png)
+
+- Note that, now, the aggregation for each genre is not reported. This is the key difference with the CUBE operator, where the aggregates for all combinations of values of the selected attribute types are shown.
+
+![Alt text](Assets2/image-49.png)
+
+- When we change the order and put genre first and country second we obtain this table. The last two lines are now changed: instead of the aggregation for country we now have the aggregation for genre
+
+![Alt text](Assets2/image-50.png)
+- We can also include more than one aggregation in the table. Here we count the number of movie rentals and the number of ratings.
+
+![Alt text](Assets/day51(3)of60.png)

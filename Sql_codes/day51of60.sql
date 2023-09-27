@@ -22,3 +22,27 @@ ON m.movie_id = r.movie_id
 LEFT JOIN customers AS c
 ON r.customer_id = c.customer_id
 GROUP BY CUBE(c.country,m.genre); 
+
+
+--- ROLLUP 
+SELECT country,genre,COUNT(*)
+FROM renting_extented
+GROUP BY ROLLUP (country,genre)
+
+
+--calculate the average ratings and the number of ratings 
+--for each country and genre, as well as 
+--an aggregation over all genres for each country 
+--and the overall average and total number.
+SELECT 
+	c.country, 
+	m.genre, 
+	AVG(r.rating) AS avg_rating, 
+	COUNT(*) AS num_rating
+FROM renting AS r
+LEFT JOIN movies AS m
+ON m.movie_id = r.movie_id
+LEFT JOIN customers AS c
+ON r.customer_id = c.customer_id
+GROUP BY ROLLUP(c.country,m.genre)
+ORDER BY c.country, m.genre;
