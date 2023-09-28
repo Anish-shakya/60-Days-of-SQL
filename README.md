@@ -38,7 +38,8 @@
 |42|RollUp,Cube,COALESCE|
 |43 - 47| Data Manipulation in SQL|
 |48|Temporay Tables in Sql|
-|49|Data Driven Decision Making|
+|49-50|Data Driven Decision Making|
+|51|Data Driven Decision Making with OLAP functions|
 
 
 ## Day 1 of 60days 
