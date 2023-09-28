@@ -40,7 +40,8 @@
 |48|Temporay Tables in Sql|
 |49-50|Data Driven Decision Making|
 |51|Data Driven Decision Making with OLAP functions|
-|52| Data Stroy Telling Concepts
+|52| Data Stroy Telling Concepts|
+|53| Project 1 - [VideoGame](Projects\VideoGame.md)|
 
 
 ## Day 1 of 60days 
@@ -1011,3 +1012,32 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-54.png)
 
 ![Alt text](Assets2/image-55.png)
+
+## Day 53 of 60days 
+-  In this project, I'll analyze video game critic and user scores as well as sales data for the top 400 video games released since 1977. I'll search for a golden age of video games by identifying release years that users and critics liked best, and I'll explore the business side of gaming by looking at game sales data.
+### Introduction
+- This is the project I completed as the part of this SQL For Data Analysis Course.
+- Here I have used my skills that I gain from this course.
+### Skills Used in this project
+- SQL JOIN
+- Aggregate Functions
+- Aggregate Filtering
+- Sub Queries
+- Correlated Sub Queries
+- Ordering and grouping
+- Limiting results
+### Project Task
+1.  ten best-selling video games
+2. Missing review scores
+3. Years that video game critics loved
+4. Was 1982 really that great?
+5. Years that dropped off the critics' favorites list
+6. Years video game players loved
+7. Years that both players and critics loved
+8. Sales in the best video game years
+
+Above are the list of insight I was given to obtain from the data set.
+Click here view project 👉 [VideoGame](Projects\VideoGame.md)
+
+
+
