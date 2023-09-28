@@ -1000,4 +1000,8 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ## Day 52 of 60days 
 - So far SQL learning journey was fantastic.I get to learn lot of stuff from basic concept to advance concepts.
 - But If you analyzed your data and you're not able to communicate or delivery the insights to the business stakeholders then it's like making coffee and not even drinking it.
-- 
+- Data Story Telling and communication in one of the top most important skill a Data Analyst must have.It translate technical results for non-technical stakeholders
+- Data storytelling is not about spinning results, it's about making them stick. For this to work, they should be
+   - simple : pruning the message to its core
+  -  concrete : can be described or detected byhuman senses
+  - credible : can be put to test.
