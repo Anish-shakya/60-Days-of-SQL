@@ -40,6 +40,7 @@
 |48|Temporay Tables in Sql|
 |49-50|Data Driven Decision Making|
 |51|Data Driven Decision Making with OLAP functions|
+|52| Data Stroy Telling Concepts
 
 
 ## Day 1 of 60days 
@@ -995,3 +996,6 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-52.png)
 
 ![Alt text](Assets/day51(4)of60.png)
+
+## Day 52 of 60days 
+- So far SQL learning journey was fantastic.I get to learn lot of stuff from basic concept to advance SQL concepts
