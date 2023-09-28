@@ -1,6 +1,7 @@
 
 ## 1. The ten best-selling video games
-<p><img src="https://assets.datacamp.com/production/project_1413/img/video_game.jpg" alt="A video game player choosing a game to play on Nintendo Switch." width="400"></p>
+![Alt text](/Assets2/video_game.jpg)
+
 <p>Let's begin by looking at some of the top selling video games of all time!</p>
 
 
