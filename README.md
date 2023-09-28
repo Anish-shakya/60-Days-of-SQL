@@ -998,4 +998,6 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets/day51(4)of60.png)
 
 ## Day 52 of 60days 
-- So far SQL learning journey was fantastic.I get to learn lot of stuff from basic concept to advance SQL concepts
+- So far SQL learning journey was fantastic.I get to learn lot of stuff from basic concept to advance concepts.
+- But If you analyzed your data and you're not able to communicate or delivery the insights to the business stakeholders then it's like making coffee and not even drinking it.
+- 
