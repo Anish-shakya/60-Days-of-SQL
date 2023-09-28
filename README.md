@@ -41,7 +41,7 @@
 |49-50|Data Driven Decision Making|
 |51|Data Driven Decision Making with OLAP functions|
 |52| Data Stroy Telling Concepts|
-|53| Project 1 - [VideoGame](\Projects\VideoGame.md)|
+|53| Project 1 - [VideoGame](Projects/VideoGame.md)|
 
 
 ## Day 1 of 60days 
@@ -1037,7 +1037,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 8. Sales in the best video game years
 
 Above are the list of insight I was given to obtain from the data set.
-Click here view project 👉 [VideoGame](Projects\VideoGame.md)
+Click here view project 👉 [VideoGame](Projects/VideoGame.md)
 
 
 
