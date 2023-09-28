@@ -1005,3 +1005,5 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
    - simple : pruning the message to its core
   -  concrete : can be described or detected byhuman senses
   - credible : can be put to test.
+
+![Alt text](Assets2/image-53.png)
