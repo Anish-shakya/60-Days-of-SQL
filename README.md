@@ -41,7 +41,7 @@
 |49-50|Data Driven Decision Making|
 |51|Data Driven Decision Making with OLAP functions|
 |52| Data Stroy Telling Concepts|
-|53| Project 1 - [VideoGame](Projects\VideoGame.md)|
+|53| Project 1 - [VideoGame](D:\sql pratice\60_day_of_sql\Projects\VideoGame.md)|
 
 
 ## Day 1 of 60days 
