@@ -1007,3 +1007,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
   - credible : can be put to test.
 
 ![Alt text](Assets2/image-53.png)
+
+![Alt text](Assets2/image-54.png)
+
+![Alt text](Assets2/image-55.png)
