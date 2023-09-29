@@ -42,7 +42,7 @@
 |51|Data Driven Decision Making with OLAP functions|
 |52| Data Stroy Telling Concepts|
 |53| Project 1 - [VideoGame](Projects/VideoGame.md)|
-|54| Project 2 - [Exploratory Data Analysis on Online Retail Shop](Projects/VideoGame.md)|
+|54| Project 2 - [Exploratory Data Analysis on Online Retail Shop](Projects/OnlineSportsRetail.md)|
 
 
 ## Day 1 of 60days 
