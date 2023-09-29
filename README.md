@@ -1015,9 +1015,11 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-55.png)
 
 ## Day 53 of 60days 
--  In this project, I'll analyze video game critic and user scores as well as sales data for the top 400 video games released since 1977. I'll search for a golden age of video games by identifying release years that users and critics liked best, and I'll explore the business side of gaming by looking at game sales data.
-### Introduction
+- Today I have applied my SQL skills to a real world SQL project
 - This is the project I completed as the part of this SQL For Data Analysis Course.
+
+### Introduction
+-  In this project, I'll analyze video game critic and user scores as well as sales data for the top 400 video games released since 1977. I'll search for a golden age of video games by identifying release years that users and critics liked best, and I'll explore the business side of gaming by looking at game sales data.
 - Here I have used my skills that I gain from this course.
 ### Skills Used in this project
 - SQL JOIN
@@ -1028,7 +1030,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - Ordering and grouping
 - Limiting results
 ### Project Task
-1.  ten best-selling video games
+1. Ten best-selling video games
 2. Missing review scores
 3. Years that video game critics loved
 4. Was 1982 really that great?
@@ -1041,4 +1043,13 @@ Above are the list of insight I was given to obtain from the data set.
 Click here view project 👉 [VideoGame](Projects/VideoGame.md)
 
 
+## Day 54 of 60days 
+- So far learn never ends and I believe that what have I learn till today I should be able to put that learning into some use.
+- Today I have applied my SQL skills in new project related to Online Sport Retail.
+- This is also a project I completed as the part of this SQL For Data Analysis Course.
 
+### Introduction
+-  In this project, I have done Exploratory Data Analsis on Online Sport Retail Revenue.
+- I will dive into product data such as pricing, reviews, descriptions, and ratings, as well as revenue and website traffic, to produce recommendations for its marketing and sales teams.
+
+### Skills Used in this project
