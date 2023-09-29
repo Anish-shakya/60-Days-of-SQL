@@ -1053,3 +1053,14 @@ Click here view project 👉 [VideoGame](Projects/VideoGame.md)
 - I will dive into product data such as pricing, reviews, descriptions, and ratings, as well as revenue and website traffic, to produce recommendations for its marketing and sales teams.
 
 ### Skills Used in this project
+- Exploratory Data Analysis in SQL
+- SQL Joins
+- Common Table Expressions (CTEs)
+- Casting
+- Aggregate FUnctions
+- Working with dates, times, and strings. 
+- Case Statement
+
+### Project Task 
+1. Counting missing values
+
