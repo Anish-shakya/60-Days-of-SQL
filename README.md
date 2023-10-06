@@ -1074,3 +1074,10 @@ Click here view project 👉 [VideoGame](Projects/VideoGame.md)
 
 Above are the list of insight I was given to obtain from the data set.
 Click here view project 👉 [Exploratory Data Analysis on Online Retail Shop](Projects/OnlineSportsRetail.md)
+
+## Day 55 of 60days 
+## Day 56 of 60days 
+## Day 57 of 60days 
+## Day 58 of 60days 
+## Day 59 of 60days 
+## Day 60 of 60days 
