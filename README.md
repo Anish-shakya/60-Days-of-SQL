@@ -1078,6 +1078,7 @@ Click here view project 👉 [Exploratory Data Analysis on Online Retail Shop](P
 ## Day 55 of 60days 
 ### Case Study 1 - Danny's Diner
 ![Alt text](Assets2/image-56.png)
+
 #### Problems statements
 Danny wants to analyze customer data to understand their visiting patterns, spending habits, and favorite menu items. This analysis will enable him to enhance his customer experience and potentially expand his loyalty program. He needs help in generating user-friendly datasets for his team to inspect the data without requiring SQL expertise.
 
@@ -1085,8 +1086,10 @@ Specifically, Danny seeks answers to questions like:
 1. What are the visiting patterns of his customers?
 2. How much money have customers spent on average?
 3. Which menu items are the most popular among customers?
-
 To achieve these goals, Danny needs SQL queries and simplified datasets for easy data inspection. 
+#### Solution
+Click here 👉[Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS1_Danny's_Dinner/solution.md)
+
 ## Day 56 of 60days 
 ## Day 57 of 60days 
 ## Day 58 of 60days 
