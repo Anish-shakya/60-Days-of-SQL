@@ -1090,7 +1090,9 @@ To achieve these goals, Danny needs SQL queries and simplified datasets for easy
 #### Solution
 Click here 👉[Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS1_Danny's_Dinner/solution.md)
 
-## Day 56 of 60days 
+## Day 56 of 60days
+### Case Study 2 - Pizza Runner
+
 ## Day 57 of 60days 
 ## Day 58 of 60days 
 ## Day 59 of 60days 
