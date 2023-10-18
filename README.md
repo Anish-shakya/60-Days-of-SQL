@@ -1094,6 +1094,7 @@ Click here 👉[Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies
 ### Case Study 2 - Pizza Runner
 
 ## Day 57 of 60days 
+### Case Study 3 - Foodie-Fi
 ## Day 58 of 60days 
 ## Day 59 of 60days 
 ## Day 60 of 60days 
