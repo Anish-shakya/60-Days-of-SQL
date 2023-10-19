@@ -1092,7 +1092,12 @@ Click here 👉[Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies
 
 ## Day 56 of 60days
 ### Case Study 2 - Pizza Runner
+![Alt text](Assets2/image57.jpg)
 #### Problem Statement
+1. Pizza Metrics
+2. Runner and Customer Experience
+3. Ingredient Optimisation
+4. Pricing and Ratings
 #### Solution
 Click here 👉[Pizza Runner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS2_Pizza_Runner/solution.md)
 
