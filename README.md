@@ -59,14 +59,14 @@
 |Transaction Control Language (TCL)|TCL commands are used to manage transactions within the database. A transaction is a sequence of database operations that should be treated as a single unit.|COMMIT, ROLLBACK, SAVEPOINT.|
 
 ## Day 2 of 60days
-- During my SQL learning journey, Today I learn about the Entity Relationship Diagrams and Different type of Keys.
+- During my SQL learning journey, Today I learned about the Entity Relationship Diagrams and Different types of Keys.
 - An Entity-Relationship Diagram (ERD) is a visual representation that depicts the entities (objects) in a database, their attributes, and the relationships between them. It helps in designing and understanding the structure of a database
 
 
 | Keys | Description |
 | ----------- | ----------- |
 |Primary Key (PK)|A primary key is a unique identifier for each record in a table.|
-|Foreign Key (FK)|A foreign key is a column or a set of columns in a table that refers to the primary key of another table.It establishes a relationship between two tables, enforcing referential integrity|
+|Foreign Key (FK)|A foreign key is a column or a set of columns in a table that refers to the primary key of another table. It establishes a relationship between two tables, enforcing referential integrity|
 |Composite Key|A composite key consists of two or more columns that, together, uniquely identify a record in a table|
 |Candidate Key|A candidate key is a column or a set of columns that can uniquely identify a record in a table|
 |Unique Key|A unique key ensures that the values in the column(s) are unique and not duplicated within a table|
