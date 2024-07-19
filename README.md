@@ -6,7 +6,7 @@
 
 - Join My coding journey 🚶‍♂️🚶‍♀️, and let's make data dance to our tunes! 🕺💃 Feel free to collaborate 👥🤝, share your insights 💬
 
-- Happy SQL learning! 🤩📚💻 #60DaysOfSQL #SQLMaster #DataNinja 🐱‍👤🔥
+- Happy SQL learning! 🤩📚💻 #60DaysOfSQL #SQLMaster #DataNinja 🐱‍👤🔥 
 
 ![Alt text](Assets2/photo.png)
 
