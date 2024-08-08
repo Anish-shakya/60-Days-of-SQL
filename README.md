@@ -21,7 +21,7 @@
 ## Learning Logs 📑
 | Day | Skill Learned |
 | ----------- | ----------- |
-|1 - 6| Basic SQL|
+|1 - 6(#day-1-of-60days)| Basic SQL|
 |7-13|Intermediate SQL|
 |14| Set Theory for SQL Joins|
 |15| Subqueries|
@@ -46,7 +46,7 @@
 |55| Case Study 1 - [Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS1_Danny's_Dinner/solution.md) |
 |56| Case Study 1 - [Pizza Runner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS2_Pizza_Runner/solution.md) |
 
-
+<a id="day-1-of-60days"></a>
 ## Day 1 of 60days 
 - During my SQL learning journey, Today I learn about the basic introduction and Different Database language.
 - Introduction : SQL (Structured Query Language) is a standard programming language designed for managing and manipulating relational databases. It provides a set of commands and syntax for performing various operations on data stored in a database.
