@@ -18,7 +18,7 @@
 |W3School|https://www.w3schools.com/sql/|
 |Datacamp|Data Analyst in SQL|
 
-## Learning Logs 📑
+
 | Day | Skill Learned |
 | ----------- | ----------- |
 |[1 - 6](#day-1-of-60days)| Basic SQL|
@@ -45,6 +45,35 @@
 |54| Project 2 - [Exploratory Data Analysis on Online Retail Shop](Projects/OnlineSportsRetail.md)|
 |55| Case Study 1 - [Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS1_Danny's_Dinner/solution.md) |
 |56| Case Study 1 - [Pizza Runner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS2_Pizza_Runner/solution.md) |
+
+## Learning Logs 📑
+| Day | Skill Learned |
+| ----------- | ----------- |
+| [1 - 6](#day-1-of-60days) | Basic SQL |
+| [7 - 13](#day-7-of-60days) | Intermediate SQL |
+| [14](#day-14-of-60days) | Set Theory for SQL Joins |
+| [15](#day-15-of-60days) | Subqueries |
+| [16 - 18](#day-16-of-60days) | Data manipulation With CASE Statement |
+| [19 - 23](#day-19-of-60days) | Simple Sub queries |
+| [24](#day-24-of-60days) | Correlated Sub queries |
+| [25](#day-25-of-60days) | Nested Sub queries |
+| [26 - 28](#day-26-of-60days) | Common Table Expression |
+| [29 - 32](#day-29-of-60days) | Sliding Window Function |
+| [33 - 34](#day-33-of-60days) | More Window Function |
+| [35 - 37](#day-35-of-60days) | Ranking Function |
+| [38 - 40](#day-38-of-60days) | Frames in SQL |
+| [41](#day-41-of-60days) | Pivoting in SQL |
+| [42](#day-42-of-60days) | RollUp, Cube, COALESCE |
+| [43 - 47](#day-43-of-60days) | Data Manipulation in SQL |
+| [48](#day-48-of-60days) | Temporary Tables in SQL |
+| [49 - 50](#day-49-of-60days) | Data Driven Decision Making |
+| [51](#day-51-of-60days) | Data Driven Decision Making with OLAP functions |
+| [52](#day-52-of-60days) | Data Storytelling Concepts |
+| [53](#day-53-of-60days) | Project 1 - [VideoGame](Projects/VideoGame.md) |
+| [54](#day-54-of-60days) | Project 2 - [Exploratory Data Analysis on Online Retail Shop](Projects/OnlineSportsRetail.md) |
+| [55](#day-55-of-60days) | Case Study 1 - [Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS1_Danny's_Dinner/solution.md) |
+| [56](#day-56-of-60days) | Case Study 2 - [Pizza Runner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS2_Pizza_Runner/solution.md) |
+
 
 <a id="day-1-of-60days"></a>
 ## Day 1 of 60days 
