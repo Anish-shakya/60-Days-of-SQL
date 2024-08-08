@@ -22,8 +22,8 @@
 | Day | Skill Learned |
 | ----------- | ----------- |
 |[1 - 6](#day-1-of-60days)| Basic SQL|
-|7-13|Intermediate SQL|
-|14| Set Theory for SQL Joins|
+|[7-13](#day-7-of-60days)|Intermediate SQL|
+|[14](#day-14-of-60days)| Set Theory for SQL Joins|
 |15| Subqueries|
 |16 - 18 | Data manipulation With CASE Statement |
 |19 - 23|Simple Sub queries|
@@ -132,6 +132,7 @@
 
 ![Alt text](Assets/day6of60.png)
 
+<a id="day-7-of-60days"></a>
 ## Day 7 of 60days
 - During my SQL learning journey,Today I learn theortical concept about Joins in SQL. JOINs are useful for allowing us to pull data from multiple tables. This is both simple and powerful all at the same time.
 - There are 4 types of JOIN commonly use in SQL
@@ -219,6 +220,7 @@
 
 ![Alt text](Assets/day13(3)of60.png)
 
+<a id="day-14-of-60days"></a>
 ## Day 14 of 60days
 - During my SQL learning journey,Today I learn about Set theory in SQL Joins.
 - SQL has three main set operations, UNION, INTERSECT and EXCEPT. The Venn diagrams shown visualize the differences between them. 
