@@ -21,7 +21,7 @@
 ## Learning Logs 📑
 | Day | Skill Learned |
 | ----------- | ----------- |
-|1 - 6(#day-1-of-60days)| Basic SQL|
+|[1 - 6](#day-1-of-60days)| Basic SQL|
 |7-13|Intermediate SQL|
 |14| Set Theory for SQL Joins|
 |15| Subqueries|
