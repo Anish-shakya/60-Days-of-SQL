@@ -43,6 +43,7 @@
 |52| Data Stroy Telling Concepts|
 |53| Project 1 - [VideoGame](Projects/VideoGame.md)|
 |54| Project 2 - [Exploratory Data Analysis on Online Retail Shop](Projects/OnlineSportsRetail.md)|
+|55| Case Study 1 - [Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS1_Danny's_Dinner/solution.md) |
 
 
 ## Day 1 of 60days 
