@@ -391,7 +391,7 @@ Aggregate functions.
 #### Using RANK() function 
 ![Alt text](Assets/day29(2)of60.png)
 
-## Day 30 of 60days
+## Day 30 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about OVER with PARTITION BY.
 - One Important statement we can add to our OVER clause is PARTITION BY.
 - A partition allows us to calculate separate values for different categories established in a partition. 
@@ -400,7 +400,7 @@ Aggregate functions.
 
 ![Alt text](Assets/day30(2)of60.png)
 
-## Day 31 of 60days
+## Day 31 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about Sliding Window.
 -  A window functions can also be used to calculate information that changes with each subsequent row in a data set.
 - We can use sliding windows to calculate a wide variety of information that aggregates one row at a time down your data set like running totals, sums, counts, and averages in any order we need.
@@ -417,7 +417,7 @@ Aggregate functions.
 
 ![Alt text](Assets2/image12.png)
 
-## Day 32 of 60days
+## Day 32 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I pratice writing queries about Sliding Window.
 
 ![Alt text](Assets/day32(1)of60.png)
@@ -425,7 +425,7 @@ Aggregate functions.
 ![Alt text](Assets/day32(2)of60.png)
 
 <a id="day-33-of-60days"></a>
-## Day 33 of 60days
+## Day 33 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn more about Window function.
 - Today I learn about ROW_NUMBER and LAG function.
 - ROW_NUMBER assigns a number to each row.
@@ -440,7 +440,7 @@ Aggregate functions.
 ![Alt text](Assets/day33(2)of60.png)
 ![Alt text](Assets2/image14.png)
 
-## Day 34 of 60days
+## Day 34 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn more about using LAG() function with PARTITION BY.
 - Enter PARTITION BY. This OVER subclause splits the table into partitions based on a column's unique values, similar to GROUP BY.
 
@@ -453,7 +453,7 @@ Aggregate functions.
 ![Alt text](Assets/day34of60.png)
 
 <a id="day-35-of-60days"></a>
-## Day 35 of 60days
+## Day 35 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about
 LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
@@ -470,7 +470,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day35of60.png)
 
-## Day 36 of 60days
+## Day 36 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn more about ranking functions.
 
 |Function|Description|
@@ -497,7 +497,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day36(2)of60.png)
 
-## Day 37 of 60days
+## Day 37 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about Paging.
 - Paging is another common application of window functions.
 - Paging is splitting data into (approximately) equal chunks.
@@ -508,7 +508,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets/day37of60.png)
 
 <a id="day-38-of-60days"></a>
-## Day 38 of 60days
+## Day 38 of 60days [🔝](#table-of-contents)
 
 - During my SQL learning journey, Today I learn about Frames in SQL.
 - A Frame is a RANGE BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING.
@@ -540,7 +540,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image22.png)
 
-## Day 39 of 60days 
+## Day 39 of 60days [🔝](#table-of-contents)
 -  During my SQL learning journey, Today I pratice on how we can use frames to change the behaviour of window and aggregate function in sql.
 
 ![Alt text](Assets/day39(1)of60.png)
@@ -549,7 +549,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day39(2)of60.png)
 
-## Day 40 of 60days 
+## Day 40 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I Learn about Moving averages and total in SQL.
 - One of the most common uses for aggregate window functions with frames is the calculation of moving averages and totals.
 - A moving average is the average of the last n periods of a column's values
@@ -578,7 +578,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image29.png)
 
 <a id="day-41-of-60days"></a>
-## Day 41 of 60days 
+## Day 41 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I Learn about Pivoting.
 - Pivoting transforms a table by making columns out of the unique values of one of its columns.
 
@@ -599,7 +599,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets/day41(2)of60.png)
 
 <a id="day-42-of-60days"></a>
-## Day 42 of 60days 
+## Day 42 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I Learn about ROLLUP,CUBE, COALESCE , STRING_AGG
 
 ### ROLLLUP
@@ -653,7 +653,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image44.png)
 
 <a id="day-43-of-60days"></a>
-## Day 43 of 60days 
+## Day 43 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about Functions to Manipulate data in PostgreSQL.
 - Learned about DATE ,TIME, TIMESTAMP, INTERVAL and ARRAY data types.
 
@@ -701,7 +701,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day43(3)of60.png)
 
-## Day 44 of 60days 
+## Day 44 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about following topics under Data Manipulating funtions in postgreSQL
 - The CURRENT_DATE,CRRENT_TIMESTAMP,NOW() function
 - The AGE() function
@@ -734,7 +734,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image-15.png)
 
-## Day 45 of 60days 
+## Day 45 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about 
  following topics under Data Manipulating funtions in postgreSQL
 - Reformatting string and character data.
@@ -800,7 +800,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets/day45(3)of60.png)
 
-## Day 46 of 60days 
+## Day 46 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about  User-define data types in SQL.
 - A user-defined data type is created using the CREATE TYPE command which registers the type in a system table and makes it available to be used anywhere PostgreSQL expects a type name.
 - Enumerated data types or enums allow you to define a custom list of values that are never going to change
@@ -850,7 +850,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 ![Alt text](Assets2/image-32.png)
 
-## Day 47 of 60days 
+## Day 47 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about Expolatory Data Analysis in SQL.
 - Using coalesce() function to specifyping a default or backup value when a comun contains NULL values.
     - coalesce(NUll,1,2) =1
@@ -886,7 +886,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 
 
 <a id="day-48-of-60days"></a>
-## Day 48 of 60days 
+## Day 48 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about creating a Temporary table simple called temp table in SQL
 
 ![Alt text](Assets2/image-37.png)
@@ -924,7 +924,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - The delimiter can be a single character or a string of multiple characters.
 
 <a id="day-49-of-60days"></a>
-## Day 49 of 60days 
+## Day 49 of 60days [🔝](#table-of-contents)
 - During My sql learning journey, Today I started learn about how data driven decision can be made using sql as analytical tools.
 
 #### Data Driven Decision Making
@@ -946,7 +946,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 - Subqueries, also known as nested queries or inner queries, are a powerful tool in SQL for performing data-driven decision-making during data analysis.
 - They allow you to use the results of one query as input to another query, enabling more complex and flexible data manipulations
 
-## Day 50 of 60days 
+## Day 50 of 60days [🔝](#table-of-contents)
 - During My sql learning journey, Today I started learn about how data driven decision can be made using SQL nested sub Queries
 - we can use as many nested sub queries as we want to fetch the result
 
@@ -971,7 +971,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-46.png)
 
 <a id="day-51-of-60days"></a>
-## Day 51 of 60days 
+## Day 51 of 60days [🔝](#table-of-contents)
 - During My sql learning journey, Today I started learn about how data driven decision can be made using SQL OLAP (On line Analytical Processing)
 
 ## OLAP (On Line Analytical Processing)
@@ -1020,7 +1020,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets/day51(4)of60.png)
 
 <a id="day-52-of-60days"></a>
-## Day 52 of 60days 
+## Day 52 of 60days [🔝](#table-of-contents)
 - So far SQL learning journey was fantastic.I get to learn lot of stuff from basic concept to advance concepts.
 - But If you analyzed your data and you're not able to communicate or delivery the insights to the business stakeholders then it's like making coffee and not even drinking it.
 - Data Story Telling and communication in one of the top most important skill a Data Analyst must have.It translate technical results for non-technical stakeholders
@@ -1036,7 +1036,7 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 ![Alt text](Assets2/image-55.png)
 
 <a id="day-53-of-60days"></a>
-## Day 53 of 60days 
+## Day 53 of 60days [🔝](#table-of-contents)
 - Today I have applied my SQL skills to a real world SQL project
 - This is the project I completed as the part of this SQL For Data Analysis Course.
 
@@ -1064,8 +1064,8 @@ LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
 Above are the list of insight I was given to obtain from the data set.
 Click here view project 👉 [VideoGame](Projects/VideoGame.md)
 
-<a id="day-54-of-60days"></a>
-## Day 54 of 60days 
+<a id="day-54-of-60days"></a> 
+## Day 54 of 60days [🔝](#table-of-contents)
 - So far learn never ends and I believe that what have I learn till today I should be able to put that learning into some use.
 - Today I have applied my SQL skills in new project related to Online Sport Retail.
 - This is also a project I completed as the part of this SQL For Data Analysis Course.
@@ -1098,7 +1098,7 @@ Above are the list of insight I was given to obtain from the data set.
 Click here view project 👉 [Exploratory Data Analysis on Online Retail Shop](Projects/OnlineSportsRetail.md)
 
 <a id="day-55-of-60days"></a>
-## Day 55 of 60days 
+## Day 55 of 60days [🔝](#table-of-contents)
 ### Case Study 1 - Danny's Diner
 ![Alt text](Assets2/image-56.png)
 
