@@ -1114,7 +1114,7 @@ To achieve these goals, Danny needs SQL queries and simplified datasets for easy
 Click here 👉[Danny's Dinner](https://github.com/Anish-shakya/SQL-Case-Studies/blob/main/CS1_Danny's_Dinner/solution.md)
 
 <a id="day-56-of-60days"></a>
-## Day 56 of 60days - [Back to Table of Contents](#table-of-contents)
+## Day 56 of 60days - [🔝](#table-of-contents)
 ### Case Study 2 - Pizza Runner
 ![Alt text](Assets2/image57.jpg)
 #### Problem Statement
