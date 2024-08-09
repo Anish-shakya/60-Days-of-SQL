@@ -119,7 +119,7 @@
 
 ![Alt text](Assets/day5of60.png)
 
-## Day 6 of 60days
+## Day 6 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about using WHERE statement with non-numeric data.We can use the = and != operators here. You need to be sure to use single quotes with the text data, not double quotes.
 
 - Commonly when we are using WHERE with non-numeric data fields, we use the AND and BETWEEN,LIKE, NOT, or IN operators.
