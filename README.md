@@ -135,7 +135,7 @@
 ![Alt text](Assets/day6of60.png)
 
 <a id="day-7-of-60days"></a>
-## Day 7 of 60days
+## Day 7 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn theortical concept about Joins in SQL. JOINs are useful for allowing us to pull data from multiple tables. This is both simple and powerful all at the same time.
 - There are 4 types of JOIN commonly use in SQL
 
@@ -148,7 +148,7 @@
 
 ![Alt text](Assets2/image1.png)
 
-## Day 8 of 60days
+## Day 8 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Primary KEY and Foreign KEY.
 - Primary Key(PK)
   - A primary key is a unique column in a particular table. This is the first column in each of our tables. Here, those columns are all called id, but that doesn't necessarily have to be the name. It is common that the primary key is the first column in our tables in most databases.
@@ -170,7 +170,7 @@
 
 ![Alt text](Assets/day9of60.png)
 
-## Day 10 of 60days
+## Day 10 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about COUNT and DISTINCT function.Combining COUNT with DISTINCT is also common to count the number of unique values in a field.
 
 - COUNT : The COUNT function lets us do this by returning the number of records with a value in a field
@@ -180,14 +180,14 @@
 
 ![Alt text](Assets/day10of60.png)
 
-## Day 11 of 60days
+## Day 11 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about using COUNT,DISTINCT and different operators AND, BETWEEN, IN together.
 - The LIKE and NOT LIKE operators can be used to find records that either match or do not match a specified pattern, respectively. 
 - LIKE can be coupled with the wildcards % and _. The % will match zero or many characters, and _ will match a single character.
 
 ![Alt text](Assets/day11of60.png)
 
-## Day 12 of 60days
+## Day 12 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Aggregate Funcitons in SQL. Mostly used aggregate funtion are AVG, MAX, MIN, SUM, COUNT
 - When analyzing data, we often want to understand the dataset as a whole in addition to looking at individual records.
 - One way to summarize the data using SQL's aggregate functions. An aggregate function performs a calculation on several values and returns a single value.
@@ -203,7 +203,7 @@
 
 ![Alt text](Assets/day12of60.png)
 
-## Day 13 of 60days
+## Day 13 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about sorting the data,Grouping the data and also use of having clause.
 - Sorting results means we want to put our data in a specific order. It's another way to make our data easier to understand by quickly seeing it in a sequence. 
 - In SQL, the ORDER BY keyword is used to sort results of one or more fields. 
@@ -223,7 +223,7 @@
 ![Alt text](Assets/day13(3)of60.png)
 
 <a id="day-14-of-60days"></a>
-## Day 14 of 60days
+## Day 14 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Set theory in SQL Joins.
 - SQL has three main set operations, UNION, INTERSECT and EXCEPT. The Venn diagrams shown visualize the differences between them. 
 
@@ -246,7 +246,7 @@
 ![Alt text](Assets/day14(3)of60.png)
 
 <a id="day-15-of-60days"></a>
-## Day 15 of 60days
+## Day 15 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Subquery in SQL.
 - A Subquery or Inner query or a Nested query is a query within another SQL query and embedded within clauses, most commonly in the WHERE clause. 
 - It is used to return data from a table, and this data will be used in the main query as a condition to further restrict the data to be retrieved.
@@ -257,7 +257,7 @@
 ![Alt text](Assets/day15(1)of60.png)
 
 <a id="day-16-of-60days"></a>
-## Day 16 of 60days
+## Day 16 of 60days [🔝](#table-of-contents)
 
 - During my SQL learning journey,Today I learn about theroritical and some practical related data manipulation in SQL.
 - There are different way to shape,transform and manipulate data in SQL using CASE statement, simple subqueries and correlated subqueries and also window functions
@@ -266,13 +266,13 @@
 
 ![Alt text](Assets/day16of60.png)
 
-## Day 17 of 60days
+## Day 17 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about to use CASE statement 
 along with logical operators like AND,OR,NOT.
 
 ![Alt text](Assets/day17of60.png)
 
-## Day 18 of 60days
+## Day 18 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about CASE WHEN statement with
 Aggregate functions.
 - CASE statements can be used to create columns for categorizing data, and to filter your data in the WHERE clause. 
@@ -284,7 +284,7 @@ Aggregate functions.
 ![Alt text](Assets/day18(2)of60.png)
 
 <a id="day-19-of-60days"></a>
-## Day 19 of 60days
+## Day 19 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about simple subquries to extract and transform out data.
 - A subquery is a query nested inside another query.
 - A subquery can be placed in any part of your query -- such as the SELECT, FROM, WHERE, or GROUP BY clause. 
@@ -295,14 +295,14 @@ Aggregate functions.
 
 ![Alt text](Assets/day19of60.png)
 
-## Day 20 of 60days
+## Day 20 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about simple subquries to extract and transform out data.
 - I learn about the use of subqueries in  FROM statement.
 - Subqueries in the FROM statement are a robust tool for restructuring and transforming your data. 
 
 ![Alt text](Assets/day20of60.png)
 
-## Day 21 of 60days
+## Day 21 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about using subqueries in SELECT Statement.
 - Subqueries in SELECT are used to return a single, aggregate value.
 - Subqueries in SELECT are one way to get around that. 
@@ -312,14 +312,14 @@ Aggregate functions.
 
 ![Alt text](Assets2/image5.png)
 
-## Day 22 of 60days
+## Day 22 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I pratice writing queries about using subqueries in SELECT Statement.
 
 ![Alt text](Assets/day22(1)of60.png)
 
 ![Alt text](Assets/day22(2)of60.png)
 
-## Day 23 of 60days
+## Day 23 of 60days [🔝](#table-of-contents)
 -  During my SQL learning journey,Today I pratice more writing advance queries about using subqueries.
 
 - subquery to extract a list of stages where the average home goals in a stage is higher than the overall average for home goals in a match.
@@ -329,7 +329,7 @@ Aggregate functions.
 ![Alt text](Assets/day23(2)of60.png)
 
 <a id="day-24-of-60days"></a>
-## Day 24 of 60days
+## Day 24 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Correlated subqueries.
 - Correlated subqueries are a special kind of subquery that use values from the outer query in order to generate the final results.
 - The subquery is re-executed each time a new row in the final data set is returned, in order to properly generate each new piece of information. 
@@ -340,14 +340,14 @@ Aggregate functions.
 ![Alt text](Assets/day24of60.png)
 
 <a id="day-25-of-60days"></a>
-## Day 25 of 60days
+## Day 25 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about Nested Subqueires.
 - I also learn about the Extract function to extract Month,Day and Year from the DATE
 
 ![Alt text](Assets/day25of60.png)
 
 <a id="day-26-of-60days"></a>
-## Day 26 of 60days
+## Day 26 of 60days [🔝](#table-of-contents)
 
 - During my SQL learning journey,Today I learn about Common Table Expression (CTE) 
 -  Common table expressions, or CTEs are a special type of subquery that is declared ahead of your main query.
@@ -362,7 +362,7 @@ Aggregate functions.
 
 ![Alt text](Assets2/image8.png)
 
-## Day 27 of 60days
+## Day 27 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I pratice writing about Common Table Expression (CTE)
 
 ![Alt text](Assets/day27(1)of60.png)
@@ -370,7 +370,7 @@ Aggregate functions.
 ![Alt text](Assets/day27(2)of60.png)
 
 ![Alt text](Assets/day27(3)of60.png)
-## Day 28 of 60days
+## Day 28 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey,Today I learn about difference between different techniques.
 
 ### Why using different techniques??
@@ -380,7 +380,7 @@ Aggregate functions.
 ![Alt text](Assets2/image10.png)
 
 <a id="day-29-of-60days"></a>
-## Day 29 of 60days
+## Day 29 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about Window Function in SQL.
 - Window functions are a class of functions that perform calculations on a result set that has already been generated, also referred to as a "window".
 - I Learn the concept about RANK function.
