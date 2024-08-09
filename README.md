@@ -49,7 +49,7 @@
 
 
 <a id="day-1-of-60days"></a>
-## Day 1 of 60days 
+## Day 1 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about the basic introduction and Different Database language.
 - Introduction : SQL (Structured Query Language) is a standard programming language designed for managing and manipulating relational databases. It provides a set of commands and syntax for performing various operations on data stored in a database.
 - SQL plays a crucial role in data analysis by providing powerful tools to retrieve, filter, aggregate, and manipulate data stored in relational databases.
@@ -62,7 +62,7 @@
 |Data Control Language (DCL)|DCL commands are used to manage user access and control database privileges.|GRANT, REVOKE|
 |Transaction Control Language (TCL)|TCL commands are used to manage transactions within the database. A transaction is a sequence of database operations that should be treated as a single unit.|COMMIT, ROLLBACK, SAVEPOINT.|
 
-## Day 2 of 60days
+## Day 2 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learned about the Entity Relationship Diagrams and Different types of Keys.
 - An Entity-Relationship Diagram (ERD) is a visual representation that depicts the entities (objects) in a database, their attributes, and the relationships between them. It helps in designing and understanding the structure of a database
 
@@ -76,7 +76,7 @@
 |Unique Key|A unique key ensures that the values in the column(s) are unique and not duplicated within a table|
 |Alternate Key|An alternate key is a candidate key that was not selected as the primary key.|
 
-## Day 3 of 60days
+## Day 3 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about the Data Definition languages and it's commands.
 - Learned about how to create tables and different data types that are available to create tables and define the attributes of columns.
 - DataTypes 
@@ -94,7 +94,7 @@
 
 ![Alt text](Assets/day3of60.png)
 
-## Day 4 of 60days
+## Day 4 of 60days [🔝](#table-of-contents)
 - During my SQL learning journey, Today I learn about the Data Manipulation languages and it's commands.
 
 | SQL Commands| Description |
@@ -106,7 +106,7 @@
 
 ![Alt text](Assets/day4of60.png)
 
-## Day 5 of 60days
+## Day 5 of 60days [🔝](#table-of-contents)
 
 - During my SQL learning journey,I learn about different SQL Clauses.Here I learn about LIMIT, ORDER BY 
 
