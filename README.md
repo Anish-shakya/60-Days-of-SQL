@@ -2,7 +2,7 @@
 
 - In this Git repo, I'll embark on a SQL learning adventure 🚀💻 to become a SQL master 🎓🔍. Over the next 60 days, I'll dive into the world of databases, queries, and data manipulation! 🌐💽
 
-- Get ready to explore SQL fundamentals 📝, tackle complex JOINs 🔗, unleash the power of subqueries 🌟, and discover the magic of aggregate functions 📊🔢. With each passing day, I'll level up my SQL skills! 💪📈
+- Get ready to explore SQL fundamentals 📝, tackle complex JOINs 🔗, unleash the power of subqueries 🌟, and discover the magic of aggregate functions 📊🔢. With each passing day, I'll level up my SQL skills! 💪📈 
 
 - Join My coding journey 🚶‍♂️🚶‍♀️, and let's make data dance to our tunes! 🕺💃 Feel free to collaborate 👥🤝, share your insights 💬
 
