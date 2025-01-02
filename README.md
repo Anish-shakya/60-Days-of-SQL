@@ -9,7 +9,7 @@
 - Happy SQL learning! 🤩📚💻 #60DaysOfSQL #SQLMaster #DataNinja 🐱‍👤🔥 
 
 ![Alt text](Assets2/photo.png)
-
+ 
 | Resources | Description |
 | ----------- | ----------- |
 |SimpleLearn| https://lms.simplilearn.com/courses/4309/Introduction-to-SQL/syllabus|
